@@ -1,0 +1,1005 @@
+Link: http://arxiv.org/abs/2405.13002v1
+Title: DuetRAG: Collaborative Retrieval-Augmented Generation
+----------------------------------------
+Link: http://arxiv.org/abs/2407.09394v1
+Title: PersonaRAG: Enhancing Retrieval-Augmented Generation Systems with
+  User-Centric Agents
+----------------------------------------
+Link: http://arxiv.org/abs/2410.20878v1
+Title: AutoRAG: Automated Framework for optimization of Retrieval Augmented
+  Generation Pipeline
+----------------------------------------
+Link: http://arxiv.org/abs/2412.12358v1
+Title: BioRAGent: A Retrieval-Augmented Generation System for Showcasing
+  Generative Query Expansion and Domain-Specific Search for Scientific Q&A
+----------------------------------------
+Link: http://arxiv.org/abs/2309.15217v1
+Title: RAGAS: Automated Evaluation of Retrieval Augmented Generation
+----------------------------------------
+Link: http://arxiv.org/abs/2311.04177v1
+Title: Enhancing LLM Intelligence with ARM-RAG: Auxiliary Rationale Memory for
+  Retrieval Augmented Generation
+----------------------------------------
+Link: http://arxiv.org/abs/2404.00610v1
+Title: RQ-RAG: Learning to Refine Queries for Retrieval Augmented Generation
+----------------------------------------
+Link: http://arxiv.org/abs/2405.16506v2
+Title: GRAG: Graph Retrieval-Augmented Generation
+----------------------------------------
+Link: http://arxiv.org/abs/2408.08535v1
+Title: CommunityKG-RAG: Leveraging Community Structures in Knowledge Graphs for
+  Advanced Retrieval-Augmented Generation in Fact-Checking
+----------------------------------------
+Link: http://arxiv.org/abs/2410.13272v1
+Title: FRAG: Toward Federated Vector Database Management for Collaborative and
+  Secure Retrieval-Augmented Generation
+----------------------------------------
+Link: http://arxiv.org/abs/2412.15272v1
+Title: SimGRAG: Leveraging Similar Subgraphs for Knowledge Graphs Driven
+  Retrieval-Augmented Generation
+----------------------------------------
+Link: http://arxiv.org/abs/2403.10081v3
+Title: DRAGIN: Dynamic Retrieval Augmented Generation based on the Information
+  Needs of Large Language Models
+----------------------------------------
+Link: http://arxiv.org/abs/2405.13792v2
+Title: xRAG: Extreme Context Compression for Retrieval-augmented Generation
+  with One Token
+----------------------------------------
+Link: http://arxiv.org/abs/2406.07348v3
+Title: DR-RAG: Applying Dynamic Document Relevance to Retrieval-Augmented
+  Generation for Question-Answering
+----------------------------------------
+Link: http://arxiv.org/abs/2410.22353v1
+Title: RuleRAG: Rule-guided retrieval-augmented generation with language models
+  for question answering
+----------------------------------------
+Link: http://arxiv.org/abs/2411.00744v1
+Title: CORAG: A Cost-Constrained Retrieval Optimization System for
+  Retrieval-Augmented Generation
+----------------------------------------
+Link: http://arxiv.org/abs/2411.16523v1
+Title: LaB-RAG: Label Boosted Retrieval Augmented Generation for Radiology
+  Report Generation
+----------------------------------------
+Link: http://arxiv.org/abs/2412.13163v2
+Title: C-FedRAG: A Confidential Federated Retrieval-Augmented Generation System
+----------------------------------------
+Link: http://arxiv.org/abs/2309.16035v3
+Title: MKRAG: Medical Knowledge Retrieval Augmented Generation for Medical
+  Question Answering
+----------------------------------------
+Link: http://arxiv.org/abs/2401.11246v1
+Title: Prompt-RAG: Pioneering Vector Embedding-Free Retrieval-Augmented
+  Generation in Niche Domains, Exemplified by Korean Medicine
+----------------------------------------
+Link: http://arxiv.org/abs/2402.01717v1
+Title: From RAG to QA-RAG: Integrating Generative AI for Pharmaceutical
+  Regulatory Compliance Process
+----------------------------------------
+Link: http://arxiv.org/abs/2402.03367v2
+Title: RAG-Fusion: a New Take on Retrieval-Augmented Generation
+----------------------------------------
+Link: http://arxiv.org/abs/2402.11891v1
+Title: FeB4RAG: Evaluating Federated Search in the Context of Retrieval
+  Augmented Generation
+----------------------------------------
+Link: http://arxiv.org/abs/2403.05676v1
+Title: PipeRAG: Fast Retrieval-Augmented Generation via Algorithm-System
+  Co-design
+----------------------------------------
+Link: http://arxiv.org/abs/2403.09040v2
+Title: RAGGED: Towards Informed Design of Retrieval Augmented Generation
+  Systems
+----------------------------------------
+Link: http://arxiv.org/abs/2403.15450v1
+Title: Loops On Retrieval Augmented Generation (LoRAG)
+----------------------------------------
+Link: http://arxiv.org/abs/2404.04302v1
+Title: CBR-RAG: Case-Based Reasoning for Retrieval Augmented Generation in LLMs
+  for Legal Question Answering
+----------------------------------------
+Link: http://arxiv.org/abs/2404.07220v2
+Title: Blended RAG: Improving RAG (Retriever-Augmented Generation) Accuracy
+  with Semantic Search and Hybrid Query-Based Retrievers
+----------------------------------------
+Link: http://arxiv.org/abs/2405.02816v1
+Title: Stochastic RAG: End-to-End Retrieval-Augmented Generation through
+  Expected Utility Maximization
+----------------------------------------
+Link: http://arxiv.org/abs/2405.13084v2
+Title: The 2nd FutureDial Challenge: Dialog Systems with Retrieval Augmented
+  Generation (FutureDial-RAG)
+----------------------------------------
+Link: http://arxiv.org/abs/2405.13179v4
+Title: RAG-RLRC-LaySum at BioLaySumm: Integrating Retrieval-Augmented
+  Generation and Readability Control for Layman Summarization of Biomedical
+  Texts
+----------------------------------------
+Link: http://arxiv.org/abs/2405.13576v1
+Title: FlashRAG: A Modular Toolkit for Efficient Retrieval-Augmented Generation
+  Research
+----------------------------------------
+Link: http://arxiv.org/abs/2405.16420v1
+Title: M-RAG: Reinforcing Large Language Model Performance through
+  Retrieval-Augmented Generation with Multiple Partitions
+----------------------------------------
+Link: http://arxiv.org/abs/2406.05794v3
+Title: RE-RAG: Improving Open-Domain QA Performance and Interpretability with
+  Relevance Estimator in Retrieval-Augmented Generation
+----------------------------------------
+Link: http://arxiv.org/abs/2406.07053v1
+Title: TelecomRAG: Taming Telecom Standards with Retrieval Augmented Generation
+  and LLMs
+----------------------------------------
+Link: http://arxiv.org/abs/2406.12430v1
+Title: PlanRAG: A Plan-then-Retrieval Augmented Generation for Generative Large
+  Language Models as Decision Makers
+----------------------------------------
+Link: http://arxiv.org/abs/2406.16167v1
+Title: FS-RAG: A Frame Semantics Based Approach for Improved Factual Accuracy
+  in Large Language Models
+----------------------------------------
+Link: http://arxiv.org/abs/2406.19251v1
+Title: AutoRAG-HP: Automatic Online Hyper-Parameter Tuning for
+  Retrieval-Augmented Generation
+----------------------------------------
+Link: http://arxiv.org/abs/2407.02485v1
+Title: RankRAG: Unifying Context Ranking with Retrieval-Augmented Generation in
+  LLMs
+----------------------------------------
+Link: http://arxiv.org/abs/2407.12216v2
+Title: Mindful-RAG: A Study of Points of Failure in Retrieval Augmented
+  Generation
+----------------------------------------
+Link: http://arxiv.org/abs/2408.02545v1
+Title: RAG Foundry: A Framework for Enhancing LLMs for Retrieval Augmented
+  Generation
+----------------------------------------
+Link: http://arxiv.org/abs/2408.08067v2
+Title: RAGChecker: A Fine-grained Framework for Diagnosing Retrieval-Augmented
+  Generation
+----------------------------------------
+Link: http://arxiv.org/abs/2408.15533v2
+Title: LRP4RAG: Detecting Hallucinations in Retrieval-Augmented Generation via
+  Layer-wise Relevance Propagation
+----------------------------------------
+Link: http://arxiv.org/abs/2409.03171v2
+Title: MARAGS: A Multi-Adapter System for Multi-Task Retrieval Augmented
+  Generation Question Answering
+----------------------------------------
+Link: http://arxiv.org/abs/2409.08597v1
+Title: LA-RAG:Enhancing LLM-based ASR Accuracy with Retrieval-Augmented
+  Generation
+----------------------------------------
+Link: http://arxiv.org/abs/2409.09046v1
+Title: HyPA-RAG: A Hybrid Parameter Adaptive Retrieval-Augmented Generation
+  System for AI Legal and Policy Applications
+----------------------------------------
+Link: http://arxiv.org/abs/2409.12140v2
+Title: MoRAG -- Multi-Fusion Retrieval Augmented Generation for Human Motion
+----------------------------------------
+Link: http://arxiv.org/abs/2409.20075v1
+Title: BSharedRAG: Backbone Shared Retrieval-Augmented Generation for the
+  E-commerce Domain
+----------------------------------------
+Link: http://arxiv.org/abs/2410.02719v1
+Title: UncertaintyRAG: Span-Level Uncertainty Enhanced Long-Context Modeling
+  for Retrieval-Augmented Generation
+----------------------------------------
+Link: http://arxiv.org/abs/2410.05779v2
+Title: LightRAG: Simple and Fast Retrieval-Augmented Generation
+----------------------------------------
+Link: http://arxiv.org/abs/2410.07590v1
+Title: TurboRAG: Accelerating Retrieval-Augmented Generation with Precomputed
+  KV Caches for Chunked Text
+----------------------------------------
+Link: http://arxiv.org/abs/2410.13293v2
+Title: SBI-RAG: Enhancing Math Word Problem Solving for Students through
+  Schema-Based Instruction and Retrieval-Augmented Generation
+----------------------------------------
+Link: http://arxiv.org/abs/2410.17952v1
+Title: SimRAG: Self-Improving Retrieval-Augmented Generation for Adapting Large
+  Language Models to Specialized Domains
+----------------------------------------
+Link: http://arxiv.org/abs/2410.20753v1
+Title: Plan$\times$RAG: Planning-guided Retrieval Augmented Generation
+----------------------------------------
+Link: http://arxiv.org/abs/2410.23000v2
+Title: Long$^2$RAG: Evaluating Long-Context & Long-Form Retrieval-Augmented
+  Generation with Key Point Recall
+----------------------------------------
+Link: http://arxiv.org/abs/2411.01751v1
+Title: RAGViz: Diagnose and Visualize Retrieval-Augmented Generation
+----------------------------------------
+Link: http://arxiv.org/abs/2411.02832v2
+Title: PersianRAG: A Retrieval-Augmented Generation System for Persian Language
+----------------------------------------
+Link: http://arxiv.org/abs/2411.05844v1
+Title: LEGO-GraphRAG: Modularizing Graph-based Retrieval-Augmented Generation
+  for Design Space Exploration
+----------------------------------------
+Link: http://arxiv.org/abs/2411.06805v1
+Title: AssistRAG: Boosting the Potential of Large Language Models with an
+  Intelligent Information Assistant
+----------------------------------------
+Link: http://arxiv.org/abs/2411.13773v1
+Title: FastRAG: Retrieval Augmented Generation for Semi-structured Data
+----------------------------------------
+Link: http://arxiv.org/abs/2412.01572v3
+Title: MBA-RAG: a Bandit Approach for Adaptive Retrieval-Augmented Generation
+  through Question Complexity
+----------------------------------------
+https://arxiv.org/abs/2403.14403v2
+Adaptive-RAG: Learning to Adapt Retrieval-Augmented Large Language Models through Question Complexity  
+----------------------------------------
+Link: http://arxiv.org/abs/2412.16643v1
+Title: TimeRAG: BOOSTING LLM Time Series Forecasting via Retrieval-Augmented
+  Generation
+----------------------------------------
+Link: http://arxiv.org/abs/2412.16701v1
+Title: AlzheimerRAG: Multimodal Retrieval Augmented Generation for PubMed
+  articles
+----------------------------------------
+Link: http://arxiv.org/abs/2412.16708v1
+Title: Towards More Robust Retrieval-Augmented Generation: Evaluating RAG Under
+  Adversarial Poisoning Attacks
+----------------------------------------
+Link: http://arxiv.org/abs/2312.10904v2
+Title: Dynamic Retrieval Augmented Generation of Ontologies using Artificial
+  Intelligence (DRAGON-AI)
+----------------------------------------
+Link: http://arxiv.org/abs/2409.15566v1
+Title: GEM-RAG: Graphical Eigen Memories For Retrieval Augmented Generation
+----------------------------------------
+Link: http://arxiv.org/abs/2310.11511v1
+Title: Self-RAG: Learning to Retrieve, Generate, and Critique through
+  Self-Reflection
+----------------------------------------
+Link: http://arxiv.org/abs/2401.15391v1
+Title: MultiHop-RAG: Benchmarking Retrieval-Augmented Generation for Multi-Hop
+  Queries
+----------------------------------------
+Link: http://arxiv.org/abs/2404.12457v2
+Title: RAGCache: Efficient Knowledge Caching for Retrieval-Augmented Generation
+----------------------------------------
+Link: http://arxiv.org/abs/2405.13021v1
+Title: IM-RAG: Multi-Round Retrieval-Augmented Generation Through Learning
+  Inner Monologues
+----------------------------------------
+Link: http://arxiv.org/abs/2405.13401v4
+Title: TrojanRAG: Retrieval-Augmented Generation Can Be Backdoor Driver in
+  Large Language Models
+----------------------------------------
+Link: http://arxiv.org/abs/2406.00029v1
+Title: Clustered Retrieved Augmented Generation (CRAG)
+----------------------------------------
+Link: http://arxiv.org/abs/2406.05654v2
+Title: DomainRAG: A Chinese Benchmark for Evaluating Domain-specific
+  Retrieval-Augmented Generation
+----------------------------------------
+Link: http://arxiv.org/abs/2406.12566v3
+Title: RichRAG: Crafting Rich Responses for Multi-faceted Queries in
+  Retrieval-Augmented Generation
+----------------------------------------
+Link: http://arxiv.org/abs/2406.13629v2
+Title: InstructRAG: Instructing Retrieval-Augmented Generation via
+  Self-Synthesized Rationales
+----------------------------------------
+Link: http://arxiv.org/abs/2406.13779v1
+Title: FoRAG: Factuality-optimized Retrieval Augmented Generation for
+  Web-enhanced Long-form Question Answering
+----------------------------------------
+Link: http://arxiv.org/abs/2406.14783v2
+Title: Evaluating RAG-Fusion with RAGElo: an Automated Elo-based Framework
+----------------------------------------
+Link: http://arxiv.org/abs/2406.16828v1
+Title: Ragnarök: A Reusable RAG Framework and Baselines for TREC 2024
+  Retrieval-Augmented Generation Track
+----------------------------------------
+Link: http://arxiv.org/abs/2407.01080v2
+Title: Face4RAG: Factual Consistency Evaluation for Retrieval Augmented
+  Generation in Chinese
+----------------------------------------
+Link: http://arxiv.org/abs/2407.08223v1
+Title: Speculative RAG: Enhancing Retrieval Augmented Generation through
+  Drafting
+----------------------------------------
+Link: http://arxiv.org/abs/2407.11005v1
+Title: RAGBench: Explainable Benchmark for Retrieval-Augmented Generation
+  Systems
+----------------------------------------
+Link: http://arxiv.org/abs/2408.04187v2
+Title: Medical Graph RAG: Towards Safe Medical Large Language Model via Graph
+  Retrieval-Augmented Generation
+----------------------------------------
+Link: http://arxiv.org/abs/2408.04948v1
+Title: HybridRAG: Integrating Knowledge Graphs and Vector Retrieval Augmented
+  Generation for Efficient Information Extraction
+----------------------------------------
+Link: http://arxiv.org/abs/2408.07611v2
+Title: WeKnow-RAG: An Adaptive Approach for Retrieval-Augmented Generation
+  Integrating Web Search and Knowledge Graphs
+----------------------------------------
+Link: http://arxiv.org/abs/2408.10343v1
+Title: LegalBench-RAG: A Benchmark for Retrieval-Augmented Generation in the
+  Legal Domain
+----------------------------------------
+Link: http://arxiv.org/abs/2408.11381v2
+Title: RAGLAB: A Modular and Research-Oriented Unified Framework for
+  Retrieval-Augmented Generation
+----------------------------------------
+Link: http://arxiv.org/abs/2409.05591v2
+Title: MemoRAG: Moving towards Next-Gen RAG Via Memory-Inspired Knowledge
+  Discovery
+----------------------------------------
+Link: http://arxiv.org/abs/2409.11279v1
+Title: P-RAG: Progressive Retrieval Augmented Generation For Planning on
+  Embodied Everyday Task
+----------------------------------------
+Link: http://arxiv.org/abs/2410.10315v2
+Title: EasyRAG: Efficient Retrieval-Augmented Generation Framework for
+  Automated Network Operations
+----------------------------------------
+Link: http://arxiv.org/abs/2410.10594v1
+Title: VisRAG: Vision-based Retrieval-augmented Generation on Multi-modality
+  Documents
+----------------------------------------
+Link: http://arxiv.org/abs/2410.12248v1
+Title: CoFE-RAG: A Comprehensive Full-chain Evaluation Framework for
+  Retrieval-Augmented Generation with Enhanced Data Diversity
+----------------------------------------
+Link: http://arxiv.org/abs/2410.13509v1
+Title: RAG-DDR: Optimizing Retrieval-Augmented Generation Using Differentiable
+  Data Rewards
+----------------------------------------
+Link: http://arxiv.org/abs/2410.13716v1
+Title: MIRAGE-Bench: Automatic Multilingual Benchmark Arena for
+  Retrieval-Augmented Generation Systems
+----------------------------------------
+Link: http://arxiv.org/abs/2410.14881v2
+Title: Class-RAG: Real-Time Content Moderation with Retrieval Augmented
+  Generation
+----------------------------------------
+Link: http://arxiv.org/abs/2410.18050v2
+Title: LongRAG: A Dual-Perspective Retrieval-Augmented Generation Paradigm for
+  Long-Context Question Answering
+----------------------------------------
+Link: http://arxiv.org/abs/2411.05141v1
+Title: Audiobox TTA-RAG: Improving Zero-Shot and Few-Shot Text-To-Audio with
+  Retrieval-Augmented Generation
+----------------------------------------
+Link: http://arxiv.org/abs/2411.14110v1
+Title: RAG-Thief: Scalable Extraction of Private Data from Retrieval-Augmented
+  Generation Applications with Agent-based Attacks
+----------------------------------------
+Link: http://arxiv.org/abs/2411.19443v1
+Title: Auto-RAG: Autonomous Retrieval-Augmented Generation for Large Language
+  Models
+----------------------------------------
+Link: http://arxiv.org/abs/2412.02592v1
+Title: OCR Hinders RAG: Evaluating the Cascading Impact of OCR on
+  Retrieval-Augmented Generation
+----------------------------------------
+Link: http://arxiv.org/abs/2412.14510v1
+Title: PA-RAG: RAG Alignment via Multi-Perspective Preference Optimization
+----------------------------------------
+Link: http://arxiv.org/abs/2412.15235v1
+Title: OG-RAG: Ontology-Grounded Retrieval-Augmented Generation For Large
+  Language Models
+----------------------------------------
+Link: http://arxiv.org/abs/2412.15529v2
+Title: XRAG: eXamining the Core -- Benchmarking Foundational Components in
+  Advanced Retrieval-Augmented Generation
+----------------------------------------
+Link: http://arxiv.org/abs/2412.16311v1
+Title: HybGRAG: Hybrid Retrieval-Augmented Generation on Textual and Relational
+  Knowledge Bases
+----------------------------------------
+Link: http://arxiv.org/abs/2401.13256v3
+Title: UniMS-RAG: A Unified Multi-source Retrieval-Augmented Generation for
+  Personalized Dialogue Systems
+----------------------------------------
+Link: http://arxiv.org/abs/2401.17043v3
+Title: CRUD-RAG: A Comprehensive Chinese Benchmark for Retrieval-Augmented
+  Generation of Large Language Models
+----------------------------------------
+Link: http://arxiv.org/abs/2402.07867v3
+Title: PoisonedRAG: Knowledge Corruption Attacks to Retrieval-Augmented
+  Generation of Large Language Models
+----------------------------------------
+Link: http://arxiv.org/abs/2406.00083v2
+Title: BadRAG: Identifying Vulnerabilities in Retrieval Augmented Generation of
+  Large Language Models
+----------------------------------------
+Link: http://arxiv.org/abs/2407.15621v1
+Title: RadioRAG: Factual Large Language Models for Enhanced Diagnostics in
+  Radiology Using Dynamic Retrieval Augmented Generation
+----------------------------------------
+Link: http://arxiv.org/abs/2311.05261v1
+Title: RAGLog: Log Anomaly Detection using Retrieval Augmented Generation
+----------------------------------------
+Link: http://arxiv.org/abs/2401.01511v1
+Title: Enhancing Multilingual Information Retrieval in Mixed Human Resources
+  Environments: A RAG Model Implementation for Multicultural Enterprise
+----------------------------------------
+Link: http://arxiv.org/abs/2402.01767v2
+Title: HiQA: A Hierarchical Contextual Augmentation RAG for Multi-Documents QA
+----------------------------------------
+Link: http://arxiv.org/abs/2402.04411v2
+Title: DFA-RAG: Conversational Semantic Router for Large Language Model with
+  Definite Finite Automaton
+----------------------------------------
+Link: http://arxiv.org/abs/2402.13547v2
+Title: ActiveRAG: Autonomously Knowledge Assimilation and Accommodation through
+  Retrieval-Augmented Agents
+----------------------------------------
+Link: http://arxiv.org/abs/2402.16406v1
+Title: From RAGs to riches: Using large language models to write documents for
+  clinical trials
+----------------------------------------
+Link: http://arxiv.org/abs/2403.01193v3
+Title: RAGged Edges: The Double-Edged Sword of Retrieval-Augmented Chatbots
+----------------------------------------
+Link: http://arxiv.org/abs/2403.19964v3
+Title: FairRAG: Fair Human Generation via Fair Retrieval Augmentation
+----------------------------------------
+Link: http://arxiv.org/abs/2404.01037v1
+Title: ARAGOG: Advanced RAG Output Grading
+----------------------------------------
+Link: http://arxiv.org/abs/2404.02103v2
+Title: CLAPNQ: Cohesive Long-form Answers from Passages in Natural Questions
+  for RAG systems
+----------------------------------------
+Link: http://arxiv.org/abs/2404.08940v1
+Title: Introducing Super RAGs in Mistral 8x7B-v1
+----------------------------------------
+Link: http://arxiv.org/abs/2404.12065v2
+Title: RAGAR, Your Falsehood Radar: RAG-Augmented Reasoning for Political
+  Fact-Checking using Multimodal Large Language Models
+----------------------------------------
+Link: http://arxiv.org/abs/2404.15939v3
+Title: Telco-RAG: Navigating the Challenges of Retrieval-Augmented Language
+  Models for Telecommunications
+----------------------------------------
+Link: http://arxiv.org/abs/2404.17347v1
+Title: InspectorRAGet: An Introspection Platform for RAG Evaluation
+----------------------------------------
+Link: http://arxiv.org/abs/2405.01585v1
+Title: Tabular Embedding Model (TEM): Finetuning Embedding Models For Tabular
+  RAG Applications
+----------------------------------------
+Link: http://arxiv.org/abs/2405.12035v1
+Title: KG-RAG: Bridging the Gap Between Knowledge and Creativity
+----------------------------------------
+Link: http://arxiv.org/abs/2405.12363v2
+Title: Question-Based Retrieval using Atomic Units for Enterprise RAG
+----------------------------------------
+Link: http://arxiv.org/abs/2405.14431v1
+Title: RaFe: Ranking Feedback Improves Query Rewriting for RAG
+----------------------------------------
+Link: http://arxiv.org/abs/2405.15556v1
+Title: Certifiably Robust RAG against Retrieval Corruption
+----------------------------------------
+Link: http://arxiv.org/abs/2405.17587v2
+Title: RAGSys: Item-Cold-Start Recommender as RAG System
+----------------------------------------
+Link: http://arxiv.org/abs/2405.18414v1
+Title: Don't Forget to Connect! Improving RAG with Graph-based Reranking
+----------------------------------------
+Link: http://arxiv.org/abs/2405.19207v1
+Title: A Multi-Source Retrieval Question Answering Framework Based on RAG
+----------------------------------------
+Link: http://arxiv.org/abs/2406.01273v2
+Title: SoccerRAG: Multimodal Soccer Information Retrieval via Natural Queries
+----------------------------------------
+Link: http://arxiv.org/abs/2406.01280v2
+Title: Demo: Soccer Information Retrieval via Natural Queries using SoccerRAG
+----------------------------------------
+Link: http://arxiv.org/abs/2406.06575v1
+Title: Ask-EDA: A Design Assistant Empowered by LLM, Hybrid RAG and
+  Abbreviation De-hallucination
+----------------------------------------
+Link: http://arxiv.org/abs/2406.11497v3
+Title: CrAM: Credibility-Aware Attention Modification in LLMs for Combating
+  Misinformation in RAG
+----------------------------------------
+Link: http://arxiv.org/abs/2406.13213v2
+Title: Multi-Meta-RAG: Improving RAG for Multi-Hop Queries using Database
+  Filtering with LLM-Extracted Metadata
+----------------------------------------
+Link: http://arxiv.org/abs/2406.13840v1
+Title: StackRAG Agent: Improving Developer Answers with Retrieval-Augmented
+  Generation
+----------------------------------------
+Link: http://arxiv.org/abs/2407.12057v1
+Title: NinjaLLM: Fast, Scalable and Cost-effective RAG using Amazon SageMaker
+  and AWS Trainium and Inferentia2
+----------------------------------------
+Link: http://arxiv.org/abs/2407.13909v1
+Title: PRAGyan -- Connecting the Dots in Tweets
+----------------------------------------
+Link: http://arxiv.org/abs/2407.13998v2
+Title: RAG-QA Arena: Evaluating Domain Robustness for Long-form Retrieval
+  Augmented Question Answering
+----------------------------------------
+Link: http://arxiv.org/abs/2407.19994v3
+Title: A Study on the Implementation Method of an Agent-Based Advanced RAG
+  System Using Graph
+----------------------------------------
+Link: http://arxiv.org/abs/2407.21059v1
+Title: Modular RAG: Transforming RAG Systems into LEGO-like Reconfigurable
+  Frameworks
+----------------------------------------
+Link: http://arxiv.org/abs/2407.21300v3
+Title: Implementing Streaming algorithm and k-means clusters to RAG
+----------------------------------------
+Link: http://arxiv.org/abs/2408.01107v2
+Title: BioRAG: A RAG-LLM Framework for Biological Question Reasoning
+----------------------------------------
+Link: http://arxiv.org/abs/2408.01262v4
+Title: RAGEval: Scenario Specific RAG Evaluation Dataset Generation Framework
+----------------------------------------
+Link: http://arxiv.org/abs/2408.04259v2
+Title: EfficientRAG: Efficient Retriever for Multi-Hop Question Answering
+----------------------------------------
+Link: http://arxiv.org/abs/2408.08444v1
+Title: W-RAG: Weakly Supervised Dense Retrieval in RAG for Open-domain Question
+  Answering
+----------------------------------------
+Link: http://arxiv.org/abs/2408.08925v1
+Title: Retail-GPT: leveraging Retrieval Augmented Generation (RAG) for building
+  E-commerce Chat Assistants
+----------------------------------------
+Link: http://arxiv.org/abs/2408.09199v1
+Title: TC-RAG:Turing-Complete RAG's Case study on Medical LLM Systems
+----------------------------------------
+Link: http://arxiv.org/abs/2408.12003v1
+Title: RAG-Optimized Tibetan Tourism LLMs: Enhancing Accuracy and
+  Personalization
+
+----------------------------------------
+Link: http://arxiv.org/abs/2409.08820v1
+Title: A RAG Approach for Generating Competency Questions in Ontology
+  Engineering
+----------------------------------------
+Link: http://arxiv.org/abs/2409.11242v2
+Title: Measuring and Enhancing Trustworthiness of LLMs in RAG through Grounded
+  Attributions and Learning to Refuse
+----------------------------------------
+Link: http://arxiv.org/abs/2409.13992v1
+Title: SMART-RAG: Selection using Determinantal Matrices for Augmented
+  Retrieval
+----------------------------------------
+Link: http://arxiv.org/abs/2409.15337v1
+Title: Revisiting the Solution of Meta KDD Cup 2024: CRAG
+----------------------------------------
+Link: http://arxiv.org/abs/2409.17580v1
+Title: Enhancing Structured-Data Retrieval with GraphRAG: Soccer Data Case
+  Study
+----------------------------------------
+Link: http://arxiv.org/abs/2409.20042v2
+Title: Beyond Scores: A Modular RAG-Based System for Automatic Short Answer
+  Scoring with Feedback
+----------------------------------------
+Link: http://arxiv.org/abs/2410.03780v1
+Title: Reward-RAG: Enhancing RAG with Reward Driven Supervision
+----------------------------------------
+Link: http://arxiv.org/abs/2410.03845v2
+Title: ORAssistant: A Custom RAG-based Conversational Assistant for OpenROAD
+----------------------------------------
+Link: http://arxiv.org/abs/2410.04739v2
+Title: TableRAG: Million-Token Table Understanding with Language Models
+----------------------------------------
+Link: http://arxiv.org/abs/2410.07551v1
+Title: KRAG Framework for Enhancing LLMs in the Legal Domain
+----------------------------------------
+Link: http://arxiv.org/abs/2410.08815v2
+Title: StructRAG: Boosting Knowledge Intensive Reasoning of LLMs via
+  Inference-time Hybrid Information Structurization
+----------------------------------------
+Link: http://arxiv.org/abs/2410.10136v1
+Title: Beyond-RAG: Question Identification and Answer Generation in Real-Time
+  Conversations
+----------------------------------------
+Link: http://arxiv.org/abs/2410.10293v1
+Title: FunnelRAG: A Coarse-to-Fine Progressive Retrieval Paradigm for RAG
+----------------------------------------
+Link: http://arxiv.org/abs/2410.10913v2
+Title: Audio Captioning RAG via Generative Pair-to-Pair Retrieval with Refined
+  Knowledge Base
+----------------------------------------
+Link: http://arxiv.org/abs/2410.11446v1
+Title: AIC CTU system at AVeriTeC: Re-framing automated fact-checking as a
+  simple RAG task
+----------------------------------------
+Link: http://arxiv.org/abs/2410.11494v1
+Title: DynamicER: Resolving Emerging Mentions to Dynamic Entities for RAG
+----------------------------------------
+Link: http://arxiv.org/abs/2410.13339v1
+Title: Probing-RAG: Self-Probing to Guide Language Models in Selective Document
+  Retrieval
+----------------------------------------
+Link: http://arxiv.org/abs/2410.13671v1
+Title: HEALTH-PARIKSHA: Assessing RAG Models for Health Chatbots in Real-World
+  Multilingual Settings
+----------------------------------------
+Link: http://arxiv.org/abs/2410.14567v2
+Title: ScopeQA: A Framework for Generating Out-of-Scope Questions for RAG
+----------------------------------------
+Link: http://arxiv.org/abs/2410.18104v1
+Title: ENWAR: A RAG-empowered Multi-Modal LLM Framework for Wireless
+  Environment Perception
+----------------------------------------
+Link: http://arxiv.org/abs/2410.19572v4
+Title: ChunkRAG: Novel LLM-Chunk Filtering Method for RAG Systems
+----------------------------------------
+Link: http://arxiv.org/abs/2410.20299v1
+Title: EACO-RAG: Edge-Assisted and Collaborative RAG with Adaptive Knowledge
+  Update
+----------------------------------------
+Link: http://arxiv.org/abs/2410.21943v1
+Title: Beyond Text: Optimizing RAG with Multimodal Inputs for Industrial
+  Applications
+----------------------------------------
+Link: http://arxiv.org/abs/2410.22832v1
+Title: HijackRAG: Hijacking Attacks against Retrieval-Augmented Large Language
+  Models
+----------------------------------------
+Link: http://arxiv.org/abs/2411.02850v1
+Title: WASHtsApp -- A RAG-powered WhatsApp Chatbot for supporting rural African
+  clean water access, sanitation and hygiene
+----------------------------------------
+Link: http://arxiv.org/abs/2411.03572v1
+Title: Advanced RAG Models with Graph Structures: Optimizing Complex Knowledge
+  Reasoning and Text Generation
+----------------------------------------
+Link: http://arxiv.org/abs/2411.06175v2
+Title: Clustering Algorithms and RAG Enhancing Semi-Supervised Text
+  Classification with Large LLMs
+----------------------------------------
+Link: http://arxiv.org/abs/2411.07396v1
+Title: Toward Optimal Search and Retrieval for RAG
+----------------------------------------
+Link: http://arxiv.org/abs/2411.09590v1
+Title: Adopting RAG for LLM-Aided Future Vehicle Design
+----------------------------------------
+Link: http://arxiv.org/abs/2411.13154v1
+Title: DMQR-RAG: Diverse Multi-Query Rewriting for RAG
+----------------------------------------
+Link: http://arxiv.org/abs/2411.14592v2
+Title: G-RAG: Knowledge Expansion in Material Science
+----------------------------------------
+Link: http://arxiv.org/abs/2412.02262v1
+Title: Composing Open-domain Vision with RAG for Ocean Monitoring and
+  Conservation
+----------------------------------------
+Link: http://arxiv.org/abs/2412.10543v1
+Title: RAGServe: Fast Quality-Aware RAG Systems with Configuration Adaptation
+----------------------------------------
+Link: http://arxiv.org/abs/2412.12322v1
+Title: RAG Playground: A Framework for Systematic Evaluation of Retrieval
+  Strategies and Prompt Engineering in RAG Systems
+----------------------------------------
+Link: http://arxiv.org/abs/2412.13720v1
+Title: Federated Learning and RAG Integration: A Scalable Approach for Medical
+  Large Language Models
+----------------------------------------
+Link: http://arxiv.org/abs/2412.13988v1
+Title: RAG for Effective Supply Chain Security Questionnaire Automation
+----------------------------------------
+Link: http://arxiv.org/abs/2412.14191v1
+Title: Ontology-Aware RAG for Improved Question-Answering in Cybersecurity
+  Education
+
+----------------------------------------
+Link: http://arxiv.org/abs/2412.15540v1
+Title: MRAG: A Modular Retrieval Framework for Time-Sensitive Question
+  Answering
+----------------------------------------
+Link: http://arxiv.org/abs/2412.15605v1
+Title: Don't Do RAG: When Cache-Augmented Generation is All You Need for
+  Knowledge Tasks
+----------------------------------------
+Link: http://arxiv.org/abs/2412.16086v1
+Title: Towards Interpretable Radiology Report Generation via Concept
+  Bottlenecks using a Multi-Agentic RAG
+----------------------------------------
+Link: http://arxiv.org/abs/2412.17690v2
+Title: RAGONITE: Iterative Retrieval on Induced Databases and Verbalized RDF
+  for Conversational QA over KGs with RAG
+----------------------------------------
+Link: http://arxiv.org/abs/2104.08610v1
+Title: Zero-shot Slot Filling with DPR and RAG
+----------------------------------------
+Link: http://arxiv.org/abs/2210.02928v2
+Title: MuRAG: Multimodal Retrieval-Augmented Generator for Open Question
+  Answering over Images and Text
+----------------------------------------
+Link: http://arxiv.org/abs/2310.20158v1
+Title: GAR-meets-RAG Paradigm for Zero-Shot Information Retrieval
+----------------------------------------
+Link: http://arxiv.org/abs/2401.00396v2
+Title: RAGTruth: A Hallucination Corpus for Developing Trustworthy
+  Retrieval-Augmented Language Models
+----------------------------------------
+Link: http://arxiv.org/abs/2401.10225v5
+Title: ChatQA: Surpassing GPT-4 on Conversational QA and RAG
+----------------------------------------
+Link: http://arxiv.org/abs/2401.14887v4
+Title: The Power of Noise: Redefining Retrieval for RAG Systems
+----------------------------------------
+Link: http://arxiv.org/abs/2402.07016v1
+Title: REALM: RAG-Driven Enhancement of Multimodal Electronic Health Records
+  Analysis via Large Language Models
+----------------------------------------
+Link: http://arxiv.org/abs/2402.07483v2
+Title: T-RAG: Lessons from the LLM Trenches
+----------------------------------------
+Link: http://arxiv.org/abs/2402.17081v1
+Title: A Fine-tuning Enhanced RAG System with Quantized Influence Measure as AI
+  Judge
+----------------------------------------
+Link: http://arxiv.org/abs/2403.15729v3
+Title: Towards a RAG-based Summarization Agent for the Electron-Ion Collider
+
+----------------------------------------
+Link: http://arxiv.org/abs/2404.16130v1
+Title: From Local to Global: A Graph RAG Approach to Query-Focused
+  Summarization
+----------------------------------------
+Link: http://arxiv.org/abs/2404.19543v1
+Title: RAG and RAU: A Survey on Retrieval-Augmented Language Model in Natural
+  Language Processing
+----------------------------------------
+Link: http://arxiv.org/abs/2405.00465v3
+Title: BiomedRAG: A Retrieval Augmented Large Language Model for Biomedicine
+----------------------------------------
+Link: http://arxiv.org/abs/2405.01310v1
+Title: Overcoming LLM Challenges using RAG-Driven Precision in Coffee Leaf
+  Disease Remediation
+----------------------------------------
+Link: http://arxiv.org/abs/2405.03085v1
+Title: Compressing Long Context for Enhancing RAG with AMR-based Concept
+  Distillation
+----------------------------------------
+Link: http://arxiv.org/abs/2405.03963v4
+Title: ERATTA: Extreme RAG for Table To Answers with Large Language Models
+----------------------------------------
+Link: http://arxiv.org/abs/2405.05444v1
+Title: Evaluating Students' Open-ended Written Responses with LLMs: Using the
+  RAG Framework for GPT-3.5, GPT-4, Claude-3, and Mistral-Large
+----------------------------------------
+Link: http://arxiv.org/abs/2405.06683v1
+Title: ERAGent: Enhancing Retrieval-Augmented Language Models with Improved
+  Accuracy, Efficiency, and Personalization
+----------------------------------------
+Link: http://arxiv.org/abs/2405.14831v2
+Title: HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language
+  Models
+----------------------------------------
+Link: http://arxiv.org/abs/2405.20139v1
+Title: GNN-RAG: Graph Neural Retrieval for Large Language Model Reasoning
+----------------------------------------
+Link: http://arxiv.org/abs/2405.20455v5
+Title: DepsRAG: Towards Agentic Reasoning and Planning for Software Dependency
+  Management
+----------------------------------------
+Link: http://arxiv.org/abs/2406.00036v1
+Title: EMERGE: Integrating RAG for Improved Multimodal EHR Predictive Modeling
+----------------------------------------
+Link: http://arxiv.org/abs/2406.05085v2
+Title: Multi-Head RAG: Solving Multi-Aspect Problems with LLMs
+
+----------------------------------------
+Link: http://arxiv.org/abs/2406.06577v1
+Title: RAG-based Crowdsourcing Task Decomposition via Masked Contrastive
+  Learning with Prompts
+----------------------------------------
+Link: http://arxiv.org/abs/2406.11147v2
+Title: Vul-RAG: Enhancing LLM-based Vulnerability Detection via Knowledge-level
+  RAG
+----------------------------------------
+Link: http://arxiv.org/abs/2406.14497v1
+Title: CodeRAG-Bench: Can Retrieval Augment Code Generation?
+----------------------------------------
+Link: http://arxiv.org/abs/2406.15319v3
+Title: LongRAG: Enhancing Retrieval-Augmented Generation with Long-context LLMs
+----------------------------------------
+Link: http://arxiv.org/abs/2407.00072v5
+Title: Pistis-RAG: Enhancing Retrieval-Augmented Generation with Human Feedback
+----------------------------------------
+Link: http://arxiv.org/abs/2407.00978v2
+Title: Hybrid RAG-empowered Multi-modal LLM for Secure Data Management in
+  Internet of Medical Things: A Diffusion-based Contract Approach
+----------------------------------------
+Link: http://arxiv.org/abs/2407.05131v2
+Title: RULE: Reliable Multimodal RAG for Factuality in Medical Vision Language
+  Models
+----------------------------------------
+Link: http://arxiv.org/abs/2407.10670v1
+Title: Enhancing Retrieval and Managing Retrieval: A Four-Module Synergy for
+  Improved Quality and Efficiency in RAG Systems
+----------------------------------------
+Link: http://arxiv.org/abs/2407.18553v2
+Title: REAPER: Reasoning based Retrieval Planning for Complex RAG Systems
+----------------------------------------
+Link: http://arxiv.org/abs/2408.04870v5
+Title: ConfusedPilot: Confused Deputy Risks in RAG-based LLMs
+----------------------------------------
+Link: http://arxiv.org/abs/2408.05141v3
+Title: A Hybrid RAG System with Comprehensive Enhancement on Complex Reasoning
+----------------------------------------
+Link: http://arxiv.org/abs/2408.05911v1
+Title: A New Pipeline For Generating Instruction Dataset via RAG and Self
+  Fine-Tuning
+
+----------------------------------------
+Link: http://arxiv.org/abs/2408.06272v1
+Title: A RAG-Based Question-Answering Solution for Cyber-Attack Investigation
+  and Attribution
+----------------------------------------
+Link: http://arxiv.org/abs/2409.03708v2
+Title: RAG based Question-Answering for Contextual Response Prediction System
+----------------------------------------
+Link: http://arxiv.org/abs/2409.07489v2
+Title: RAGent: Retrieval-based Access Control Policy Generation
+----------------------------------------
+Link: http://arxiv.org/abs/2409.07691v1
+Title: Enhancing Q&A Text Retrieval with Ranking Models: Benchmarking,
+  fine-tuning and deploying Rerankers for RAG
+----------------------------------------
+Link: http://arxiv.org/abs/2409.09916v1
+Title: SFR-RAG: Towards Contextually Faithful LLMs
+----------------------------------------
+Link: http://arxiv.org/abs/2409.15355v4
+Title: Block-Attention for Efficient RAG
+----------------------------------------
+Link: http://arxiv.org/abs/2409.18313v4
+Title: Embodied-RAG: General Non-parametric Embodied Memory for Retrieval and
+  Generation
+----------------------------------------
+Link: http://arxiv.org/abs/2409.19019v1
+Title: RAGProbe: An Automated Approach for Evaluating RAG Applications
+----------------------------------------
+Link: http://arxiv.org/abs/2410.01782v1
+Title: Open-RAG: Enhanced Retrieval-Augmented Reasoning with Open-Source Large
+  Language Models
+
+----------------------------------------
+Link: http://arxiv.org/abs/2410.07176v1
+Title: Astute RAG: Overcoming Imperfect Retrieval Augmentation and Knowledge
+  Conflicts for Large Language Models
+----------------------------------------
+Link: http://arxiv.org/abs/2410.08182v1
+Title: MRAG-Bench: Vision-Centric Evaluation for Retrieval-Augmented Multimodal
+  Models
+
+----------------------------------------
+Link: http://arxiv.org/abs/2410.13085v1
+Title: MMed-RAG: Versatile Multimodal RAG System for Medical Vision Language
+  Models
+----------------------------------------
+Link: http://arxiv.org/abs/2410.13326v1
+Title: Comparing the Utility, Preference, and Performance of Course Material
+  Search Functionality and Retrieval-Augmented Generation Large Language Model
+  (RAG-LLM) AI Chatbots in Information-Seeking Tasks
+----------------------------------------
+Link: http://arxiv.org/abs/2410.14594v2
+Title: Toolshed: Scale Tool-Equipped Agents with Advanced RAG-Tool Fusion and
+  Tool Knowledge Bases
+----------------------------------------
+Link: http://arxiv.org/abs/2410.15805v1
+Title: RAG4ITOps: A Supervised Fine-Tunable and Comprehensive RAG Framework for
+  IT Operations and Maintenance
+----------------------------------------
+Link: http://arxiv.org/abs/2410.16322v1
+Title: SouLLMate: An Application Enhancing Diverse Mental Health Support with
+  Adaptive LLMs, Prompt Engineering, and RAG Techniques
+----------------------------------------
+Link: http://arxiv.org/abs/2410.23041v1
+Title: Emotional RAG: Enhancing Role-Playing Agents through Emotional Retrieval
+----------------------------------------
+Link: http://arxiv.org/abs/2410.23968v1
+Title: EmbodiedRAG: Dynamic 3D Scene Graph Retrieval for Efficient and Scalable
+  Robot Task Planning
+----------------------------------------
+Link: http://arxiv.org/abs/2411.02959v1
+Title: HtmlRAG: HTML is Better Than Plain Text for Modeling Retrieved Knowledge
+  in RAG Systems
+----------------------------------------
+Link: http://arxiv.org/abs/2411.04476v1
+Title: LLM-R: A Framework for Domain-Adaptive Maintenance Scheme Generation
+  Combining Hierarchical Agents and RAG
+----------------------------------------
+Link: http://arxiv.org/abs/2411.04952v1
+Title: M3DocRAG: Multi-modal Retrieval is What You Need for Multi-page
+  Multi-document Understanding
+----------------------------------------
+Link: http://arxiv.org/abs/2411.07021v2
+Title: Invar-RAG: Invariant LLM-aligned Retrieval for Better Generation
+----------------------------------------
+Link: http://arxiv.org/abs/2411.07688v1
+Title: Enhancing Ultra High Resolution Remote Sensing Imagery Analysis with
+  ImageRAG
+----------------------------------------
+Link: http://arxiv.org/abs/2411.13093v3
+Title: Video-RAG: Visually-aligned Retrieval-Augmented Long Video Comprehension
+----------------------------------------
+Link: http://arxiv.org/abs/2411.19528v1
+Title: RAGDiffusion: Faithful Cloth Generation via External Knowledge
+  Assimilation
+----------------------------------------
+Link: http://arxiv.org/abs/2411.19539v1
+Title: Knowledge Management for Automobile Failure Analysis Using Graph RAG
+----------------------------------------
+Link: http://arxiv.org/abs/2411.19554v1
+Title: Unimib Assistant: designing a student-friendly RAG-based chatbot for all
+  their needs
+----------------------------------------
+Link: http://arxiv.org/abs/2411.19710v1
+Title: Know Your RAG: Dataset Taxonomy and Generation Strategies for Evaluating
+  RAG Systems
+----------------------------------------
+Link: http://arxiv.org/abs/2412.00239v1
+Title: Generating a Low-code Complete Workflow via Task Decomposition and RAG
+----------------------------------------
+Link: http://arxiv.org/abs/2412.06206v1
+Title: SiReRAG: Indexing Similar and Related Information for Multihop Reasoning
+----------------------------------------
+Link: http://arxiv.org/abs/2412.06786v1
+Title: Retrieving Semantics from the Deep: an RAG Solution for Gesture
+  Synthesis
+----------------------------------------
+Link: http://arxiv.org/abs/2412.06832v1
+Title: SLA Management in Reconfigurable Multi-Agent RAG: A Systems Approach to
+  Question Answering
+----------------------------------------
+Link: http://arxiv.org/abs/2412.10571v3
+Title: Evidence Contextualization and Counterfactual Attribution for
+  Conversational QA over Heterogeneous Data with RAG Systems
+----------------------------------------
+Link: http://arxiv.org/abs/2412.12775v1
+Title: RemoteRAG: A Privacy-Preserving LLM Cloud RAG Service
+----------------------------------------
+Link: http://arxiv.org/abs/2412.13018v1
+Title: OmniEval: An Omnidirectional and Automatic RAG Evaluation Benchmark in
+  Financial Domain
+----------------------------------------
+Link: http://arxiv.org/abs/2412.13746v1
+Title: RAG-RewardBench: Benchmarking Reward Models in Retrieval Augmented
+  Generation for Preference Alignment
+----------------------------------------
+Link: http://arxiv.org/abs/2412.13799v1
+Title: Enhancing Rhetorical Figure Annotation: An Ontology-Based Web
+  Application with RAG Integration
+----------------------------------------
+Link: http://arxiv.org/abs/2401.06800v1
+Title: Reinforcement Learning for Optimizing RAG for Domain Chatbots
+----------------------------------------
+Link: http://arxiv.org/abs/2401.15378v4
+Title: A RAG-based Question Answering System Proposal for Understanding Islam:
+  MufassirQAS LLM
+----------------------------------------
+Link: http://arxiv.org/abs/2403.14374v1
+Title: FIT-RAG: Black-Box RAG with Factual Information and Token Reduction
+----------------------------------------
+Link: http://arxiv.org/abs/2404.12309v2
+Title: iRAG: Advancing RAG for Videos with an Incremental Approach
+----------------------------------------
+Link: http://arxiv.org/abs/2405.00449v1
+Title: RAG-based Explainable Prediction of Road Users Behaviors for Automated
+  Driving using Knowledge Graphs and Large Language Models
+----------------------------------------
+Link: http://arxiv.org/abs/2405.02355v3
+Title: CodeGRAG: Bridging the Gap between Natural Language and Programming
+  Language via Graphical Retrieval Augmented Generation
+----------------------------------------
+Link: http://arxiv.org/abs/2406.04744v2
+Title: CRAG -- Comprehensive RAG Benchmark
+----------------------------------------
+Link: http://arxiv.org/abs/2407.14482v2
+Title: ChatQA 2: Bridging the Gap to Proprietary LLMs in Long Context and RAG
+  Capabilities
+----------------------------------------
+Total papers with 'RAG' in the title filtered out survey, case study and benchmarking: 270 / 331

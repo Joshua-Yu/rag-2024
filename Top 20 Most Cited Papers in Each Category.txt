@@ -1,0 +1,442 @@
+Top 20 Most Cited Papers in Category: Prompt engineering
+- Unknown Title (93 citations): http://arxiv.org/abs/2403.10131v2
+- Benchmarking Retrieval-Augmented Generation for Medicine (67 citations): http://arxiv.org/abs/2402.13178v2
+- The Power of Noise: Redefining Retrieval for RAG Systems (66 citations): http://arxiv.org/abs/2401.14887v4
+- RAG vs Fine-tuning: Pipelines, Tradeoffs, and a Case Study on
+  Agriculture (42 citations): http://arxiv.org/abs/2401.08406v3
+- RAGTruth: A Hallucination Corpus for Developing Trustworthy
+  Retrieval-Augmented Language Models (34 citations): http://arxiv.org/abs/2401.00396v2
+- G-Retriever: Retrieval-Augmented Generation for Textual Graph
+  Understanding and Question Answering (29 citations): http://arxiv.org/abs/2402.07630v3
+- RTLFixer: Automatically Fixing RTL Syntax Errors with Large Language
+  Models (29 citations): http://arxiv.org/abs/2311.16543v3
+- Retrieval-augmented Generation to Improve Math Question-Answering:
+  Trade-offs Between Groundedness and Human Preference (18 citations): http://arxiv.org/abs/2310.03184v2
+- RNNs are not Transformers (Yet): The Key Bottleneck on In-context
+  Retrieval (16 citations): http://arxiv.org/abs/2402.18510v4
+- MKRAG: Medical Knowledge Retrieval Augmented Generation for Medical
+  Question Answering (12 citations): http://arxiv.org/abs/2309.16035v3
+- Unknown Title (12 citations): http://arxiv.org/abs/2406.13121v1
+- Deficiency of Large Language Models in Finance: An Empirical Examination
+  of Hallucination (12 citations): http://arxiv.org/abs/2311.15548v1
+- HyKGE: A Hypothesis Knowledge Graph Enhanced Framework for Accurate and
+  Reliable Medical LLMs Responses (12 citations): http://arxiv.org/abs/2312.15883v2
+- Neural Exec: Learning (and Learning from) Execution Triggers for Prompt
+  Injection Attacks (11 citations): http://arxiv.org/abs/2403.03792v2
+- EVOR: Evolving Retrieval for Code Generation (11 citations): http://arxiv.org/abs/2402.12317v2
+- Follow My Instruction and Spill the Beans: Scalable Data Extraction from
+  Retrieval-Augmented Generation Systems (9 citations): http://arxiv.org/abs/2402.17840v3
+- Graph-Based Retriever Captures the Long Tail of Biomedical Knowledge (8 citations): http://arxiv.org/abs/2402.12352v1
+- Retrieval Augmented Chest X-Ray Report Generation using OpenAI GPT
+  models (8 citations): http://arxiv.org/abs/2305.03660v1
+- LitLLM: A Toolkit for Scientific Literature Review (8 citations): http://arxiv.org/abs/2402.01788v1
+- Is My Data in Your Retrieval Database? Membership Inference Attacks
+  Against Retrieval Augmented Generation (8 citations): http://arxiv.org/abs/2405.20446v2
+
+Top 20 Most Cited Papers in Category: Retrieval Approach
+- Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks (2917 citations): http://arxiv.org/abs/2005.11401v4
+- Retrieval-Augmented Generation for Large Language Models: A Survey (681 citations): http://arxiv.org/abs/2312.10997v5
+- Self-RAG: Learning to Retrieve, Generate, and Critique through
+  Self-Reflection (348 citations): http://arxiv.org/abs/2310.11511v1
+- Benchmarking Large Language Models in Retrieval-Augmented Generation (127 citations): http://arxiv.org/abs/2309.01431v2
+- From Local to Global: A Graph RAG Approach to Query-Focused
+  Summarization (115 citations): http://arxiv.org/abs/2404.16130v1
+- Unknown Title (93 citations): http://arxiv.org/abs/2403.10131v2
+- Retrieval-Augmented Generation for AI-Generated Content: A Survey (87 citations): http://arxiv.org/abs/2402.19473v6
+- MuRAG: Multimodal Retrieval-Augmented Generator for Open Question
+  Answering over Images and Text (81 citations): http://arxiv.org/abs/2210.02928v2
+- Unknown Title (69 citations): http://arxiv.org/abs/2101.00408v2
+- RAGAS: Automated Evaluation of Retrieval Augmented Generation (69 citations): http://arxiv.org/abs/2309.15217v1
+- Benchmarking Retrieval-Augmented Generation for Medicine (67 citations): http://arxiv.org/abs/2402.13178v2
+- The Power of Noise: Redefining Retrieval for RAG Systems (66 citations): http://arxiv.org/abs/2401.14887v4
+- Unknown Title (60 citations): http://arxiv.org/abs/2403.14403v2
+- Generative Representational Instruction Tuning (59 citations): http://arxiv.org/abs/2402.09906v2
+- ARES: An Automated Evaluation Framework for Retrieval-Augmented
+  Generation Systems (58 citations): http://arxiv.org/abs/2311.09476v2
+- Fine-Tuning or Retrieval? Comparing Knowledge Injection in LLMs (57 citations): http://arxiv.org/abs/2312.05934v3
+- Improving the Domain Adaptation of Retrieval Augmented Generation (RAG)
+  Models for Open Domain Question Answering (55 citations): http://arxiv.org/abs/2210.02627v1
+- Unknown Title (45 citations): http://arxiv.org/abs/2207.06300v1
+- RAG vs Fine-tuning: Pipelines, Tradeoffs, and a Case Study on
+  Agriculture (42 citations): http://arxiv.org/abs/2401.08406v3
+- Seven Failure Points When Engineering a Retrieval Augmented Generation
+  System (37 citations): http://arxiv.org/abs/2401.05856v1
+
+Top 20 Most Cited Papers in Category: End-to-end
+- Retrieval-Augmented Generation for Large Language Models: A Survey (681 citations): http://arxiv.org/abs/2312.10997v5
+- Self-RAG: Learning to Retrieve, Generate, and Critique through
+  Self-Reflection (348 citations): http://arxiv.org/abs/2310.11511v1
+- RAFT: Adapting Language Model to Domain Specific RAG (93 citations): http://arxiv.org/abs/2403.10131v2
+- End-to-End Training of Neural Retrievers for Open-Domain Question Answering (69 citations): http://arxiv.org/abs/2101.00408v2
+- RAGAS: Automated Evaluation of Retrieval Augmented Generation (69 citations): http://arxiv.org/abs/2309.15217v1
+- Adaptive-RAG: Learning to Adapt Retrieval-Augmented Large Language Models through Question Complexity (60 citations): http://arxiv.org/abs/2403.14403v2
+- ARES: An Automated Evaluation Framework for Retrieval-Augmented
+  Generation Systems (58 citations): http://arxiv.org/abs/2311.09476v2
+- Unknown Title (46 citations): http://arxiv.org/abs/1206.6410v1
+- Unknown Title (45 citations): http://arxiv.org/abs/2207.06300v1
+- RAGTruth: A Hallucination Corpus for Developing Trustworthy
+  Retrieval-Augmented Language Models (34 citations): http://arxiv.org/abs/2401.00396v2
+- G-Retriever: Retrieval-Augmented Generation for Textual Graph
+  Understanding and Question Answering (29 citations): http://arxiv.org/abs/2402.07630v3
+- RTLFixer: Automatically Fixing RTL Syntax Errors with Large Language
+  Models (29 citations): http://arxiv.org/abs/2311.16543v3
+- Unknown Title (22 citations): http://arxiv.org/abs/2102.10643v2
+- RankRAG: Unifying Context Ranking with Retrieval-Augmented Generation in
+  LLMs (22 citations): http://arxiv.org/abs/2407.02485v1
+- LongRAG: Enhancing Retrieval-Augmented Generation with Long-context LLMs (21 citations): http://arxiv.org/abs/2406.15319v3
+- RAGCache: Efficient Knowledge Caching for Retrieval-Augmented Generation (19 citations): http://arxiv.org/abs/2404.12457v2
+- Certifiably Robust RAG against Retrieval Corruption (19 citations): http://arxiv.org/abs/2405.15556v1
+- Enhancing LLM Factual Accuracy with RAG to Counter Hallucinations: A
+  Case Study on Domain-Specific Queries in Private Knowledge-Bases (18 citations): http://arxiv.org/abs/2403.10446v1
+- Bridging the Preference Gap between Retrievers and LLMs (17 citations): http://arxiv.org/abs/2401.06954v2
+- Unknown Title (16 citations): http://arxiv.org/abs/2010.03872v1
+
+Top 20 Most Cited Papers in Category: Benchmarking
+- Retrieval-Augmented Generation for Large Language Models: A Survey (681 citations): http://arxiv.org/abs/2312.10997v5
+- Benchmarking Large Language Models in Retrieval-Augmented Generation (127 citations): http://arxiv.org/abs/2309.01431v2
+- Retrieval-Augmented Generation for AI-Generated Content: A Survey (87 citations): http://arxiv.org/abs/2402.19473v6
+- RAGAS: Automated Evaluation of Retrieval Augmented Generation (69 citations): http://arxiv.org/abs/2309.15217v1
+- Benchmarking Retrieval-Augmented Generation for Medicine (67 citations): http://arxiv.org/abs/2402.13178v2
+- Generative Representational Instruction Tuning (59 citations): http://arxiv.org/abs/2402.09906v2
+- ARES: An Automated Evaluation Framework for Retrieval-Augmented
+  Generation Systems (58 citations): http://arxiv.org/abs/2311.09476v2
+- RAG vs Fine-tuning: Pipelines, Tradeoffs, and a Case Study on
+  Agriculture (42 citations): http://arxiv.org/abs/2401.08406v3
+- RAGTruth: A Hallucination Corpus for Developing Trustworthy
+  Retrieval-Augmented Language Models (34 citations): http://arxiv.org/abs/2401.00396v2
+- PaperQA: Retrieval-Augmented Generative Agent for Scientific Research (33 citations): http://arxiv.org/abs/2312.07559v2
+- MultiHop-RAG: Benchmarking Retrieval-Augmented Generation for Multi-Hop
+  Queries (32 citations): http://arxiv.org/abs/2401.15391v1
+- G-Retriever: Retrieval-Augmented Generation for Textual Graph
+  Understanding and Question Answering (29 citations): http://arxiv.org/abs/2402.07630v3
+- Huatuo-26M, a Large-scale Chinese Medical QA Dataset (29 citations): http://arxiv.org/abs/2305.01526v1
+- RTLFixer: Automatically Fixing RTL Syntax Errors with Large Language
+  Models (29 citations): http://arxiv.org/abs/2311.16543v3
+- Evaluation of Retrieval-Augmented Generation: A Survey (29 citations): http://arxiv.org/abs/2405.07437v2
+- Evaluating Very Long-Term Conversational Memory of LLM Agents (27 citations): http://arxiv.org/abs/2402.17753v1
+- Hallucination-Free? Assessing the Reliability of Leading AI Legal
+  Research Tools (26 citations): http://arxiv.org/abs/2405.20362v1
+- Unknown Title (24 citations): http://arxiv.org/abs/2402.10790v2
+- ChatQA: Surpassing GPT-4 on Conversational QA and RAG (22 citations): http://arxiv.org/abs/2401.10225v5
+- ClashEval: Quantifying the tug-of-war between an LLM's internal prior
+  and external evidence (22 citations): http://arxiv.org/abs/2404.10198v2
+
+Top 20 Most Cited Papers in Category: Generation optimization
+- Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks (2917 citations): http://arxiv.org/abs/2005.11401v4
+- Benchmarking Large Language Models in Retrieval-Augmented Generation (127 citations): http://arxiv.org/abs/2309.01431v2
+- Unknown Title (93 citations): http://arxiv.org/abs/2403.10131v2
+- MuRAG: Multimodal Retrieval-Augmented Generator for Open Question
+  Answering over Images and Text (81 citations): http://arxiv.org/abs/2210.02928v2
+- Unknown Title (69 citations): http://arxiv.org/abs/2101.00408v2
+- Benchmarking Retrieval-Augmented Generation for Medicine (67 citations): http://arxiv.org/abs/2402.13178v2
+- Generative Representational Instruction Tuning (59 citations): http://arxiv.org/abs/2402.09906v2
+- Improving the Domain Adaptation of Retrieval Augmented Generation (RAG)
+  Models for Open Domain Question Answering (55 citations): http://arxiv.org/abs/2210.02627v1
+- RAG vs Fine-tuning: Pipelines, Tradeoffs, and a Case Study on
+  Agriculture (42 citations): http://arxiv.org/abs/2401.08406v3
+- RAGTruth: A Hallucination Corpus for Developing Trustworthy
+  Retrieval-Augmented Language Models (34 citations): http://arxiv.org/abs/2401.00396v2
+- PaperQA: Retrieval-Augmented Generative Agent for Scientific Research (33 citations): http://arxiv.org/abs/2312.07559v2
+- Corrective Retrieval Augmented Generation (30 citations): http://arxiv.org/abs/2401.15884v3
+- RQ-RAG: Learning to Refine Queries for Retrieval Augmented Generation (28 citations): http://arxiv.org/abs/2404.00610v1
+- Evaluating Very Long-Term Conversational Memory of LLM Agents (27 citations): http://arxiv.org/abs/2402.17753v1
+- Hallucination-Free? Assessing the Reliability of Leading AI Legal
+  Research Tools (26 citations): http://arxiv.org/abs/2405.20362v1
+- ChatQA: Surpassing GPT-4 on Conversational QA and RAG (22 citations): http://arxiv.org/abs/2401.10225v5
+- RankRAG: Unifying Context Ranking with Retrieval-Augmented Generation in
+  LLMs (22 citations): http://arxiv.org/abs/2407.02485v1
+- Unknown Title (21 citations): http://arxiv.org/abs/2407.01370v1
+- LongRAG: Enhancing Retrieval-Augmented Generation with Long-context LLMs (21 citations): http://arxiv.org/abs/2406.15319v3
+- RAGCache: Efficient Knowledge Caching for Retrieval-Augmented Generation (19 citations): http://arxiv.org/abs/2404.12457v2
+
+Top 20 Most Cited Papers in Category: Application of RAG in other areas
+- Retrieval-Augmented Generation for Large Language Models: A Survey (681 citations): http://arxiv.org/abs/2312.10997v5
+- Benchmarking Large Language Models in Retrieval-Augmented Generation (127 citations): http://arxiv.org/abs/2309.01431v2
+- Unknown Title (93 citations): http://arxiv.org/abs/2403.10131v2
+- Retrieval-Augmented Generation for AI-Generated Content: A Survey (87 citations): http://arxiv.org/abs/2402.19473v6
+- RAG vs Fine-tuning: Pipelines, Tradeoffs, and a Case Study on
+  Agriculture (42 citations): http://arxiv.org/abs/2401.08406v3
+- Seven Failure Points When Engineering a Retrieval Augmented Generation
+  System (37 citations): http://arxiv.org/abs/2401.05856v1
+- A Survey on RAG Meeting LLMs: Towards Retrieval-Augmented Large Language
+  Models (35 citations): http://arxiv.org/abs/2405.06211v3
+- RAGTruth: A Hallucination Corpus for Developing Trustworthy
+  Retrieval-Augmented Language Models (34 citations): http://arxiv.org/abs/2401.00396v2
+- G-Retriever: Retrieval-Augmented Generation for Textual Graph
+  Understanding and Question Answering (29 citations): http://arxiv.org/abs/2402.07630v3
+- Evaluation of Retrieval-Augmented Generation: A Survey (29 citations): http://arxiv.org/abs/2405.07437v2
+- Hallucination-Free? Assessing the Reliability of Leading AI Legal
+  Research Tools (26 citations): http://arxiv.org/abs/2405.20362v1
+- Unknown Title (22 citations): http://arxiv.org/abs/2102.10643v2
+- Leave No Document Behind: Benchmarking Long-Context LLMs with Extended
+  Multi-Doc QA (19 citations): http://arxiv.org/abs/2406.17419v2
+- DB-GPT: Empowering Database Interactions with Private Large Language
+  Models (16 citations): http://arxiv.org/abs/2312.17449v2
+- Unknown Title (15 citations): http://arxiv.org/abs/2404.01744v5
+- CRUD-RAG: A Comprehensive Chinese Benchmark for Retrieval-Augmented
+  Generation of Large Language Models (14 citations): http://arxiv.org/abs/2401.17043v3
+- Interactive AI with Retrieval-Augmented Generation for Next Generation
+  Networking (13 citations): http://arxiv.org/abs/2401.11391v1
+- Phantom: General Trigger Attacks on Retrieval Augmented Language
+  Generation (12 citations): http://arxiv.org/abs/2405.20485v2
+- A Study on the Implementation of Generative AI Services Using an
+  Enterprise Data-Based LLM Application Architecture (12 citations): http://arxiv.org/abs/2309.01105v2
+- Qilin-Med: Multi-stage Knowledge Injection Advanced Medical Large
+  Language Model (12 citations): http://arxiv.org/abs/2310.09089v2
+
+Top 20 Most Cited Papers in Category: Privacy, security and attack prevention
+- Retrieval-Augmented Generation for AI-Generated Content: A Survey (87 citations): http://arxiv.org/abs/2402.19473v6
+- The Good and The Bad: Exploring Privacy Issues in Retrieval-Augmented
+  Generation (RAG) (28 citations): http://arxiv.org/abs/2402.16893v1
+- Typos that Broke the RAG's Back: Genetic Attack on RAG Pipeline by
+  Simulating Documents in the Wild via Low-level Perturbations (11 citations): http://arxiv.org/abs/2404.13948v2
+- Follow My Instruction and Spill the Beans: Scalable Data Extraction from
+  Retrieval-Augmented Generation Systems (9 citations): http://arxiv.org/abs/2402.17840v3
+
+Top 20 Most Cited Papers in Category: Multi-modal system
+- From Local to Global: A Graph RAG Approach to Query-Focused
+  Summarization (115 citations): http://arxiv.org/abs/2404.16130v1
+- Unknown Title (93 citations): http://arxiv.org/abs/2403.10131v2
+- MuRAG: Multimodal Retrieval-Augmented Generator for Open Question
+  Answering over Images and Text (81 citations): http://arxiv.org/abs/2210.02928v2
+- Unknown Title (69 citations): http://arxiv.org/abs/2101.00408v2
+- RAGAS: Automated Evaluation of Retrieval Augmented Generation (69 citations): http://arxiv.org/abs/2309.15217v1
+- The Power of Noise: Redefining Retrieval for RAG Systems (66 citations): http://arxiv.org/abs/2401.14887v4
+- Generative Representational Instruction Tuning (59 citations): http://arxiv.org/abs/2402.09906v2
+- ARES: An Automated Evaluation Framework for Retrieval-Augmented
+  Generation Systems (58 citations): http://arxiv.org/abs/2311.09476v2
+- Improving the Domain Adaptation of Retrieval Augmented Generation (RAG)
+  Models for Open Domain Question Answering (55 citations): http://arxiv.org/abs/2210.02627v1
+- PaperQA: Retrieval-Augmented Generative Agent for Scientific Research (33 citations): http://arxiv.org/abs/2312.07559v2
+- Corrective Retrieval Augmented Generation (30 citations): http://arxiv.org/abs/2401.15884v3
+- G-Retriever: Retrieval-Augmented Generation for Textual Graph
+  Understanding and Question Answering (29 citations): http://arxiv.org/abs/2402.07630v3
+- RQ-RAG: Learning to Refine Queries for Retrieval Augmented Generation (28 citations): http://arxiv.org/abs/2404.00610v1
+- Evaluating Very Long-Term Conversational Memory of LLM Agents (27 citations): http://arxiv.org/abs/2402.17753v1
+- Hallucination-Free? Assessing the Reliability of Leading AI Legal
+  Research Tools (26 citations): http://arxiv.org/abs/2405.20362v1
+- Unknown Title (24 citations): http://arxiv.org/abs/2402.10790v2
+- ClashEval: Quantifying the tug-of-war between an LLM's internal prior
+  and external evidence (22 citations): http://arxiv.org/abs/2404.10198v2
+- RankRAG: Unifying Context Ranking with Retrieval-Augmented Generation in
+  LLMs (22 citations): http://arxiv.org/abs/2407.02485v1
+- Unknown Title (21 citations): http://arxiv.org/abs/2407.01370v1
+- LongRAG: Enhancing Retrieval-Augmented Generation with Long-context LLMs (21 citations): http://arxiv.org/abs/2406.15319v3
+
+Top 20 Most Cited Papers in Category: Indexing
+- Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks (2917 citations): http://arxiv.org/abs/2005.11401v4
+- From Local to Global: A Graph RAG Approach to Query-Focused
+  Summarization (115 citations): http://arxiv.org/abs/2404.16130v1
+- Unknown Title (45 citations): http://arxiv.org/abs/2207.06300v1
+- RAGCache: Efficient Knowledge Caching for Retrieval-Augmented Generation (19 citations): http://arxiv.org/abs/2404.12457v2
+- Phantom: General Trigger Attacks on Retrieval Augmented Language
+  Generation (12 citations): http://arxiv.org/abs/2405.20485v2
+- Unknown Title (12 citations): http://arxiv.org/abs/2405.14831v1
+- Fine Tuning LLM for Enterprise: Practical Guidelines and Recommendations (10 citations): http://arxiv.org/abs/2404.10779v1
+- Graph-Based Retriever Captures the Long Tail of Biomedical Knowledge (8 citations): http://arxiv.org/abs/2402.12352v1
+- Establishing Performance Baselines in Fine-Tuning, Retrieval-Augmented
+  Generation and Soft-Prompting for Non-Specialist LLM Users (4 citations): http://arxiv.org/abs/2311.05903v2
+- COS-Mix: Cosine Similarity and Distance Fusion for Improved Information
+  Retrieval (4 citations): http://arxiv.org/abs/2406.00638v1
+- AiSAQ: All-in-Storage ANNS with Product Quantization for DRAM-free
+  Information Retrieval (1 citations): http://arxiv.org/abs/2404.06004v1
+
+Top 20 Most Cited Papers in Category: Memory for RAG
+- Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks (2917 citations): http://arxiv.org/abs/2005.11401v4
+- MuRAG: Multimodal Retrieval-Augmented Generator for Open Question
+  Answering over Images and Text (81 citations): http://arxiv.org/abs/2210.02928v2
+- Unknown Title (45 citations): http://arxiv.org/abs/2207.06300v1
+- Evaluating Very Long-Term Conversational Memory of LLM Agents (27 citations): http://arxiv.org/abs/2402.17753v1
+- Unknown Title (24 citations): http://arxiv.org/abs/2402.10790v2
+- RAGCache: Efficient Knowledge Caching for Retrieval-Augmented Generation (19 citations): http://arxiv.org/abs/2404.12457v2
+- RNNs are not Transformers (Yet): The Key Bottleneck on In-context
+  Retrieval (16 citations): http://arxiv.org/abs/2402.18510v4
+- Interactive AI with Retrieval-Augmented Generation for Next Generation
+  Networking (13 citations): http://arxiv.org/abs/2401.11391v1
+- Unknown Title (12 citations): http://arxiv.org/abs/2405.14831v1
+- Online Adaptation of Language Models with a Memory of Amortized Contexts (11 citations): http://arxiv.org/abs/2403.04317v2
+- MemoRAG: Moving towards Next-Gen RAG Via Memory-Inspired Knowledge
+  Discovery (5 citations): http://arxiv.org/abs/2409.05591v2
+- ERAGent: Enhancing Retrieval-Augmented Language Models with Improved
+  Accuracy, Efficiency, and Personalization (4 citations): http://arxiv.org/abs/2405.06683v1
+- Robust Implementation of Retrieval-Augmented Generation on Edge-based
+  Computing-in-Memory Architectures (4 citations): http://arxiv.org/abs/2405.04700v1
+- TC-RAG:Turing-Complete RAG's Case study on Medical LLM Systems (2 citations): http://arxiv.org/abs/2408.09199v1
+- AiSAQ: All-in-Storage ANNS with Product Quantization for DRAM-free
+  Information Retrieval (1 citations): http://arxiv.org/abs/2404.06004v1
+
+Top 20 Most Cited Papers in Category: RAG architecture
+- Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks (2917 citations): http://arxiv.org/abs/2005.11401v4
+- RAGAS: Automated Evaluation of Retrieval Augmented Generation (69 citations): http://arxiv.org/abs/2309.15217v1
+- A Survey on RAG Meeting LLMs: Towards Retrieval-Augmented Large Language
+  Models (35 citations): http://arxiv.org/abs/2405.06211v3
+- Evaluating Very Long-Term Conversational Memory of LLM Agents (27 citations): http://arxiv.org/abs/2402.17753v1
+- DB-GPT: Empowering Database Interactions with Private Large Language
+  Models (16 citations): http://arxiv.org/abs/2312.17449v2
+- AI-TA: Towards an Intelligent Question-Answer Teaching Assistant using
+  Open-Source LLMs (13 citations): http://arxiv.org/abs/2311.02775v3
+- Phantom: General Trigger Attacks on Retrieval Augmented Language
+  Generation (12 citations): http://arxiv.org/abs/2405.20485v2
+- A Study on the Implementation of Generative AI Services Using an
+  Enterprise Data-Based LLM Application Architecture (12 citations): http://arxiv.org/abs/2309.01105v2
+- NV-Retriever: Improving text embedding models with effective
+  hard-negative mining (11 citations): http://arxiv.org/abs/2407.15831v1
+- The Chronicles of RAG: The Retriever, the Chunk and the Generator (10 citations): http://arxiv.org/abs/2401.07883v1
+- MemoRAG: Moving towards Next-Gen RAG Via Memory-Inspired Knowledge
+  Discovery (5 citations): http://arxiv.org/abs/2409.05591v2
+- M-RAG: Reinforcing Large Language Model Performance through
+  Retrieval-Augmented Generation with Multiple Partitions (5 citations): http://arxiv.org/abs/2405.16420v1
+- Robust Implementation of Retrieval-Augmented Generation on Edge-based
+  Computing-in-Memory Architectures (4 citations): http://arxiv.org/abs/2405.04700v1
+- Large Language Models (LLMs): Deployment, Tokenomics and Sustainability (2 citations): http://arxiv.org/abs/2405.17147v1
+
+Top 20 Most Cited Papers in Category: General study
+- Retrieval-Augmented Generation for Large Language Models: A Survey (681 citations): http://arxiv.org/abs/2312.10997v5
+- Retrieval-Augmented Generation for AI-Generated Content: A Survey (87 citations): http://arxiv.org/abs/2402.19473v6
+- Benchmarking Retrieval-Augmented Generation for Medicine (67 citations): http://arxiv.org/abs/2402.13178v2
+- A Survey on RAG Meeting LLMs: Towards Retrieval-Augmented Large Language
+  Models (35 citations): http://arxiv.org/abs/2405.06211v3
+- RTLFixer: Automatically Fixing RTL Syntax Errors with Large Language
+  Models (29 citations): http://arxiv.org/abs/2311.16543v3
+- Evaluation of Retrieval-Augmented Generation: A Survey (29 citations): http://arxiv.org/abs/2405.07437v2
+- Leave No Document Behind: Benchmarking Long-Context LLMs with Extended
+  Multi-Doc QA (19 citations): http://arxiv.org/abs/2406.17419v2
+- Retrieval-augmented Generation to Improve Math Question-Answering:
+  Trade-offs Between Groundedness and Human Preference (18 citations): http://arxiv.org/abs/2310.03184v2
+- Retrieval Augmented Generation or Long-Context LLMs? A Comprehensive
+  Study and Hybrid Approach (11 citations): http://arxiv.org/abs/2407.16833v2
+- Unknown Title (8 citations): http://arxiv.org/abs/2012.00945v2
+- Unknown Title (8 citations): http://arxiv.org/abs/1811.11965v1
+- MedExpQA: Multilingual Benchmarking of Large Language Models for Medical
+  Question Answering (5 citations): http://arxiv.org/abs/2404.05590v2
+- Generative AI and Large Language Models for Cyber Security: All Insights
+  You Need (5 citations): http://arxiv.org/abs/2405.12750v1
+- Unknown Title (5 citations): http://arxiv.org/abs/2410.02694v2
+- ChatQA 2: Bridging the Gap to Proprietary LLMs in Long Context and RAG
+  Capabilities (5 citations): http://arxiv.org/abs/2407.14482v2
+- Unknown Title (4 citations): http://arxiv.org/abs/2406.01607v2
+- Automated C/C++ Program Repair for High-Level Synthesis via Large
+  Language Models (4 citations): http://arxiv.org/abs/2407.03889v1
+- Large Language Models (LLMs): Deployment, Tokenomics and Sustainability (2 citations): http://arxiv.org/abs/2405.17147v1
+- Claim Verification in the Age of Large Language Models: A Survey (1 citations): http://arxiv.org/abs/2408.14317v1
+
+Top 20 Most Cited Papers in Category: Fine tuning
+- Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks (2917 citations): http://arxiv.org/abs/2005.11401v4
+- Unknown Title (93 citations): http://arxiv.org/abs/2403.10131v2
+- Fine-Tuning or Retrieval? Comparing Knowledge Injection in LLMs (57 citations): http://arxiv.org/abs/2312.05934v3
+- Improving the Domain Adaptation of Retrieval Augmented Generation (RAG)
+  Models for Open Domain Question Answering (55 citations): http://arxiv.org/abs/2210.02627v1
+- RAG vs Fine-tuning: Pipelines, Tradeoffs, and a Case Study on
+  Agriculture (42 citations): http://arxiv.org/abs/2401.08406v3
+- Unknown Title (24 citations): http://arxiv.org/abs/2402.10790v2
+- RankRAG: Unifying Context Ranking with Retrieval-Augmented Generation in
+  LLMs (22 citations): http://arxiv.org/abs/2407.02485v1
+- Enhancing LLM Factual Accuracy with RAG to Counter Hallucinations: A
+  Case Study on Domain-Specific Queries in Private Knowledge-Bases (18 citations): http://arxiv.org/abs/2403.10446v1
+- Exploring the Capabilities and Limitations of Large Language Models in
+  the Electric Energy Sector (16 citations): http://arxiv.org/abs/2403.09125v5
+- AI-TA: Towards an Intelligent Question-Answer Teaching Assistant using
+  Open-Source LLMs (13 citations): http://arxiv.org/abs/2311.02775v3
+- A Study on the Implementation of Generative AI Services Using an
+  Enterprise Data-Based LLM Application Architecture (12 citations): http://arxiv.org/abs/2309.01105v2
+- MKRAG: Medical Knowledge Retrieval Augmented Generation for Medical
+  Question Answering (12 citations): http://arxiv.org/abs/2309.16035v3
+- Qilin-Med: Multi-stage Knowledge Injection Advanced Medical Large
+  Language Model (12 citations): http://arxiv.org/abs/2310.09089v2
+- Unknown Title (12 citations): http://arxiv.org/abs/2404.12096v3
+- NV-Retriever: Improving text embedding models with effective
+  hard-negative mining (11 citations): http://arxiv.org/abs/2407.15831v1
+- Weaver: Foundation Models for Creative Writing (11 citations): http://arxiv.org/abs/2401.17268v1
+- TSpec-LLM: An Open-source Dataset for LLM Understanding of 3GPP
+  Specifications (7 citations): http://arxiv.org/abs/2406.01768v1
+- Unknown Title (6 citations): http://arxiv.org/abs/2402.18502v1
+- Improving Retrieval-Augmented Generation in Medicine with Iterative
+  Follow-up Questions (5 citations): http://arxiv.org/abs/2408.00727v3
+- RichRAG: Crafting Rich Responses for Multi-faceted Queries in
+  Retrieval-Augmented Generation (5 citations): http://arxiv.org/abs/2406.12566v3
+
+Top 20 Most Cited Papers in Category: Reasoning
+- Retrieval-Augmented Generation for Large Language Models: A Survey (681 citations): http://arxiv.org/abs/2312.10997v5
+- Self-RAG: Learning to Retrieve, Generate, and Critique through
+  Self-Reflection (348 citations): http://arxiv.org/abs/2310.11511v1
+- MuRAG: Multimodal Retrieval-Augmented Generator for Open Question
+  Answering over Images and Text (81 citations): http://arxiv.org/abs/2210.02928v2
+- MultiHop-RAG: Benchmarking Retrieval-Augmented Generation for Multi-Hop
+  Queries (32 citations): http://arxiv.org/abs/2401.15391v1
+- G-Retriever: Retrieval-Augmented Generation for Textual Graph
+  Understanding and Question Answering (29 citations): http://arxiv.org/abs/2402.07630v3
+- Unknown Title (25 citations): http://arxiv.org/abs/1304.4272v1
+- Leave No Document Behind: Benchmarking Long-Context LLMs with Extended
+  Multi-Doc QA (19 citations): http://arxiv.org/abs/2406.17419v2
+- Retrieval-augmented Generation to Improve Math Question-Answering:
+  Trade-offs Between Groundedness and Human Preference (18 citations): http://arxiv.org/abs/2310.03184v2
+- GNN-RAG: Graph Neural Retrieval for Large Language Model Reasoning (15 citations): http://arxiv.org/abs/2405.20139v1
+- RA-ISF: Learning to Answer and Understand from Retrieval Augmentation
+  via Iterative Self-Feedback (14 citations): http://arxiv.org/abs/2403.06840v2
+- Unknown Title (12 citations): http://arxiv.org/abs/2406.13121v1
+- Large Multi-Modal Models (LMMs) as Universal Foundation Models for
+  AI-Native Wireless Systems (12 citations): http://arxiv.org/abs/2402.01748v2
+- HyKGE: A Hypothesis Knowledge Graph Enhanced Framework for Accurate and
+  Reliable Medical LLMs Responses (12 citations): http://arxiv.org/abs/2312.15883v2
+- FinBen: A Holistic Financial Benchmark for Large Language Models (11 citations): http://arxiv.org/abs/2402.12659v2
+- Enhancing Noise Robustness of Retrieval-Augmented Language Models with
+  Adaptive Adversarial Training (9 citations): http://arxiv.org/abs/2405.20978v1
+- AlphaFin: Benchmarking Financial Analysis with Retrieval-Augmented
+  Stock-Chain Framework (9 citations): http://arxiv.org/abs/2403.12582v1
+- Dynamic Retrieval Augmented Generation of Ontologies using Artificial
+  Intelligence (DRAGON-AI) (7 citations): http://arxiv.org/abs/2312.10904v2
+- Lynx: An Open Source Hallucination Evaluation Model (6 citations): http://arxiv.org/abs/2407.08488v2
+- Improving Retrieval-Augmented Generation in Medicine with Iterative
+  Follow-up Questions (5 citations): http://arxiv.org/abs/2408.00727v3
+- GRAG: Graph Retrieval-Augmented Generation (5 citations): http://arxiv.org/abs/2405.16506v2
+
+Top 20 Most Cited Papers in Category: Agentic approach
+- Evaluating Very Long-Term Conversational Memory of LLM Agents (27 citations): http://arxiv.org/abs/2402.17753v1
+- REAPER: Reasoning based Retrieval Planning for Complex RAG Systems (1 citations): http://arxiv.org/abs/2407.18553v2
+
+Top 20 Most Cited Papers in Category: Source data processing
+- LongRAG: Enhancing Retrieval-Augmented Generation with Long-context LLMs (21 citations): http://arxiv.org/abs/2406.15319v3
+- Unknown Title (12 citations): http://arxiv.org/abs/2404.12096v3
+- Neural Exec: Learning (and Learning from) Execution Triggers for Prompt
+  Injection Attacks (11 citations): http://arxiv.org/abs/2403.03792v2
+- Grounding Language Model with Chunking-Free In-Context Retrieval (6 citations): http://arxiv.org/abs/2402.09760v1
+- Robust Implementation of Retrieval-Augmented Generation on Edge-based
+  Computing-in-Memory Architectures (4 citations): http://arxiv.org/abs/2405.04700v1
+- Unknown Title (3 citations): http://arxiv.org/abs/2406.17526v1
+- Block-Attention for Efficient RAG (1 citations): http://arxiv.org/abs/2409.15355v4
+
+Top 20 Most Cited Papers in Category: Embedding model and tokenisation
+- Generative Representational Instruction Tuning (59 citations): http://arxiv.org/abs/2402.09906v2
+- MultiHop-RAG: Benchmarking Retrieval-Augmented Generation for Multi-Hop
+  Queries (32 citations): http://arxiv.org/abs/2401.15391v1
+- RNNs are not Transformers (Yet): The Key Bottleneck on In-context
+  Retrieval (16 citations): http://arxiv.org/abs/2402.18510v4
+- Exploring the Capabilities and Limitations of Large Language Models in
+  the Electric Energy Sector (16 citations): http://arxiv.org/abs/2403.09125v5
+- Unknown Title (16 citations): http://arxiv.org/abs/2312.04455v4
+- Unknown Title (15 citations): http://arxiv.org/abs/1904.12577v2
+- Large Multi-Modal Models (LMMs) as Universal Foundation Models for
+  AI-Native Wireless Systems (12 citations): http://arxiv.org/abs/2402.01748v2
+- Unknown Title (12 citations): http://arxiv.org/abs/2404.12096v3
+- NV-Retriever: Improving text embedding models with effective
+  hard-negative mining (11 citations): http://arxiv.org/abs/2407.15831v1
+- The Chronicles of RAG: The Retriever, the Chunk and the Generator (10 citations): http://arxiv.org/abs/2401.07883v1
+- Graph-Based Retriever Captures the Long Tail of Biomedical Knowledge (8 citations): http://arxiv.org/abs/2402.12352v1
+- Retrieval Augmented Chest X-Ray Report Generation using OpenAI GPT
+  models (8 citations): http://arxiv.org/abs/2305.03660v1
+- Unknown Title (6 citations): http://arxiv.org/abs/2402.18502v1
+- ECG Semantic Integrator (ESI): A Foundation ECG Model Pretrained with
+  LLM-Enhanced Cardiological Text (5 citations): http://arxiv.org/abs/2405.19366v2
+- Unknown Title (4 citations): http://arxiv.org/abs/2406.01607v2
+- RAR-b: Reasoning as Retrieval Benchmark (4 citations): http://arxiv.org/abs/2404.06347v2
+- Evaluating the Efficacy of Open-Source LLMs in Enterprise-Specific RAG
+  Systems: A Comparative Study of Performance and Scalability (4 citations): http://arxiv.org/abs/2406.11424v1
+- Automatic Generation of Fashion Images using Prompting in Generative
+  Machine Learning Models (1 citations): http://arxiv.org/abs/2407.14944v1
+- RAGDiffusion: Faithful Cloth Generation via External Knowledge
+  Assimilation (1 citations): http://arxiv.org/abs/2411.19528v1
+
+Top 20 Most Cited Papers in Category: Reranking
+- Unknown Title (45 citations): http://arxiv.org/abs/2207.06300v1
+- RAG-Fusion: a New Take on Retrieval-Augmented Generation (7 citations): http://arxiv.org/abs/2402.03367v2
+- RAR-b: Reasoning as Retrieval Benchmark (4 citations): http://arxiv.org/abs/2404.06347v2

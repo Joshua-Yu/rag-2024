@@ -1,0 +1,687 @@
+I am doing some research on RAG with LLMs, and have come up with a list of RAG solutions / approaches together with their papers as provided. Please search and retrieve more information about each solution and evaluation scores (e.g. EM, F1, hit@k, MMR@k etc.) if available.
+
+
+
+The results are expected to be a table with the following columns:
+
+
+
+
+
+Rank, RAG Solution Name, Scores , RAG Approach, LLM Models, Reference (e.g. arxiv paper link), Github link
+
+
+
+
+
+
+
+Please exclude:
+
+
+
+- general frameworks e.g. LangChain, DSPy, LlamaIndex
+
+
+
+- benchmarks
+
+
+
+
+
+
+
+### START RAG SOLUTION LIST ###
+
+
+
+Self-RAG | http://arxiv.org/abs/2310.11511v1 
+
+
+
+MuRAG | http://arxiv.org/abs/2210.02928v2 
+
+
+
+RAGAS | http://arxiv.org/abs/2309.15217v1 
+
+
+
+Adaptive-RAG | http://arxiv.org/abs/2403.14403v2 
+
+
+
+Improving the Domain Adaptation of Retrieval Augmented Generation (RAG)
+
+
+
+  Models for Open Domain Question Answering | http://arxiv.org/abs/2210.02627v1 
+
+
+
+RAG vs Fine-tuning | http://arxiv.org/abs/2401.08406v3 
+
+
+
+A Survey on RAG Meeting LLMs | http://arxiv.org/abs/2405.06211v3 
+
+
+
+RAGTruth | http://arxiv.org/abs/2401.00396v2 
+
+
+
+MultiHop-RAG | http://arxiv.org/abs/2401.15391v1 
+
+
+
+RQ-RAG | http://arxiv.org/abs/2404.00610v1 
+
+
+
+RankRAG | http://arxiv.org/abs/2407.02485v1 
+
+
+
+RAG-Driver | http://arxiv.org/abs/2402.10828v2 
+
+
+
+LongRAG | http://arxiv.org/abs/2406.15319v3 
+
+
+
+RAGCache | http://arxiv.org/abs/2404.12457v2 
+
+
+
+Certifiably Robust RAG against Retrieval Corruption | http://arxiv.org/abs/2405.15556v1 
+
+
+
+C-RAG | http://arxiv.org/abs/2402.03181v5 
+
+
+
+Enhancing LLM Factual Accuracy with RAG to Counter Hallucinations | http://arxiv.org/abs/2403.10446v1 
+
+
+
+Blended RAG | http://arxiv.org/abs/2404.07220v2 
+
+
+
+BadRAG | http://arxiv.org/abs/2406.00083v2 
+
+
+
+GNN-RAG | http://arxiv.org/abs/2405.20139v1 
+
+
+
+CRUD-RAG | http://arxiv.org/abs/2401.17043v3 
+
+
+
+PipeRAG | http://arxiv.org/abs/2403.05676v1 
+
+
+
+TrojanRAG | http://arxiv.org/abs/2405.13401v4 
+
+
+
+MKRAG | http://arxiv.org/abs/2309.16035v3 
+
+
+
+HippoRAG | http://arxiv.org/abs/2405.14831v1 
+
+
+
+Can Long-Context Language Models Subsume Retrieval, RAG, SQL, and More? | http://arxiv.org/abs/2406.13121v1 
+
+
+
+CodeRAG-Bench | http://arxiv.org/abs/2406.14497v1 
+
+
+
+UniMS-RAG | http://arxiv.org/abs/2401.13256v3 
+
+
+
+FlashRAG | http://arxiv.org/abs/2405.13576v1 
+
+
+
+Telco-RAG | http://arxiv.org/abs/2404.15939v3 
+
+
+
+GAR-meets-RAG Paradigm for Zero-Shot Information Retrieval | http://arxiv.org/abs/2310.20158v1 
+
+
+
+Typos that Broke the RAG's Back | http://arxiv.org/abs/2404.13948v2 
+
+
+
+Stochastic RAG | http://arxiv.org/abs/2405.02816v1 
+
+
+
+KG-RAG | http://arxiv.org/abs/2405.12035v1 
+
+
+
+Vul-RAG | http://arxiv.org/abs/2406.11147v2 
+
+
+
+Machine Against the RAG | http://arxiv.org/abs/2406.05870v2 
+
+
+
+The Chronicles of RAG | http://arxiv.org/abs/2401.07883v1 
+
+
+
+DRAGIN | http://arxiv.org/abs/2403.10081v3 
+
+
+
+Reinforcement Learning for Optimizing RAG for Domain Chatbots | http://arxiv.org/abs/2401.06800v1 
+
+
+
+BioRAG | http://arxiv.org/abs/2408.01107v2 
+
+
+
+Enhancing LLM Intelligence with ARM-RAG | http://arxiv.org/abs/2311.04177v1 
+
+
+
+PlanRAG | http://arxiv.org/abs/2406.12430v1 
+
+
+
+In Defense of RAG in the Era of Long-Context Language Models | http://arxiv.org/abs/2409.01666v1 
+
+
+
+Speculative RAG | http://arxiv.org/abs/2407.08223v1 
+
+
+
+RAG and RAU | http://arxiv.org/abs/2404.19543v1 
+
+
+
+HybridRAG | http://arxiv.org/abs/2408.04948v1 
+
+
+
+Dynamic Retrieval Augmented Generation of Ontologies using Artificial
+
+
+
+  Intelligence (DRAGON-AI) | http://arxiv.org/abs/2312.10904v2 
+
+
+
+From RAG to QA-RAG | http://arxiv.org/abs/2402.01717v1 
+
+
+
+RAG-Fusion | http://arxiv.org/abs/2402.03367v2 
+
+
+
+RAGged Edges | http://arxiv.org/abs/2403.01193v3 
+
+
+
+Modular RAG | http://arxiv.org/abs/2407.21059v1 
+
+
+
+Improving Retrieval for RAG based Question Answering Models on Financial
+
+
+
+  Documents | http://arxiv.org/abs/2404.07221v2 
+
+
+
+Don't Forget to Connect! Improving RAG with Graph-based Reranking | http://arxiv.org/abs/2405.18414v1 
+
+
+
+Compressing Long Context for Enhancing RAG with AMR-based Concept
+
+
+
+  Distillation | http://arxiv.org/abs/2405.03085v1 
+
+
+
+RAG-RLRC-LaySum at BioLaySumm | http://arxiv.org/abs/2405.13179v4 
+
+
+
+PoisonedRAG | http://arxiv.org/abs/2402.07867v3 
+
+
+
+CRAG -- Comprehensive RAG Benchmark | http://arxiv.org/abs/2406.04744v2 
+
+
+
+T-RAG | http://arxiv.org/abs/2402.07483v2 
+
+
+
+MemoRAG | http://arxiv.org/abs/2409.05591v2 
+
+
+
+GRAG | http://arxiv.org/abs/2405.16506v2 
+
+
+
+A Fine-tuning Enhanced RAG System with Quantized Influence Measure as AI
+
+
+
+  Judge | http://arxiv.org/abs/2402.17081v1 
+
+
+
+RichRAG | http://arxiv.org/abs/2406.12566v3 
+
+
+
+MMed-RAG | http://arxiv.org/abs/2410.13085v1 
+
+
+
+Evaluating RAG-Fusion with RAGElo | http://arxiv.org/abs/2406.14783v2 
+
+
+
+CBR-RAG | http://arxiv.org/abs/2404.04302v1 
+
+
+
+M-RAG | http://arxiv.org/abs/2405.16420v1 
+
+
+
+ERAGent | http://arxiv.org/abs/2405.06683v1 
+
+
+
+IM-RAG | http://arxiv.org/abs/2405.13021v1 
+
+
+
+RAGBench | http://arxiv.org/abs/2407.11005v1 
+
+
+
+How Much Can RAG Help the Reasoning of LLM? | http://arxiv.org/abs/2410.02338v2 
+
+
+
+FIT-RAG | http://arxiv.org/abs/2403.14374v1 
+
+
+
+FeB4RAG | http://arxiv.org/abs/2402.11891v1 
+
+
+
+RAGEval | http://arxiv.org/abs/2408.01262v4 
+
+
+
+Multi-Head RAG | http://arxiv.org/abs/2406.05085v2 
+
+
+
+Evaluating the Efficacy of Open-Source LLMs in Enterprise-Specific RAG
+
+
+
+  Systems | http://arxiv.org/abs/2406.11424v1 
+
+
+
+Evaluation of RAG Metrics for Question Answering in the Telecom Domain | http://arxiv.org/abs/2407.12873v1 
+
+
+
+From RAGs to rich parameters | http://arxiv.org/abs/2406.12824v1 
+
+
+
+Context Embeddings for Efficient Answer Generation in RAG | http://arxiv.org/abs/2407.09252v3 
+
+
+
+TableRAG | http://arxiv.org/abs/2410.04739v1 
+
+
+
+Multi-Meta-RAG | http://arxiv.org/abs/2406.13213v2 
+
+
+
+Fine-tune the Entire RAG Architecture (including DPR retriever) for
+
+
+
+  Question-Answering | http://arxiv.org/abs/2106.11517v1 
+
+
+
+RAGGED | http://arxiv.org/abs/2403.09040v2 
+
+
+
+Question-Based Retrieval using Atomic Units for Enterprise RAG | http://arxiv.org/abs/2405.12363v2 
+
+
+
+Advanced RAG Models with Graph Structures | http://arxiv.org/abs/2411.03572v1 
+
+
+
+DR-RAG | http://arxiv.org/abs/2406.07348v3 
+
+
+
+Medical Graph RAG | http://arxiv.org/abs/2408.04187v2 
+
+
+
+From RAGs to riches | http://arxiv.org/abs/2402.16406v1 
+
+
+
+SoccerRAG | http://arxiv.org/abs/2406.01273v2 
+
+
+
+FunnelRAG | http://arxiv.org/abs/2410.10293v1 
+
+
+
+From RAG to RICHES | http://arxiv.org/abs/2407.00361v1 
+
+
+
+EfficientRAG | http://arxiv.org/abs/2408.04259v2 
+
+
+
+Should We Fine-Tune or RAG? Evaluating Different Techniques to Adapt
+
+
+
+  LLMs for Dialogue | http://arxiv.org/abs/2406.06399v3 
+
+
+
+RAG-based Explainable Prediction of Road Users Behaviors for Automated
+
+
+
+  Driving using Knowledge Graphs and Large Language Models | http://arxiv.org/abs/2405.00449v1 
+
+
+
+TelecomRAG | http://arxiv.org/abs/2406.07053v1 
+
+
+
+DepsRAG | http://arxiv.org/abs/2405.20455v5 
+
+
+
+Astute RAG | http://arxiv.org/abs/2410.07176v1 
+
+
+
+Observations on Building RAG Systems for Technical Documents | http://arxiv.org/abs/2404.00657v1 
+
+
+
+Optimizing Query Generation for Enhanced Document Retrieval in RAG | http://arxiv.org/abs/2407.12325v1 
+
+
+
+DomainRAG | http://arxiv.org/abs/2406.05654v2 
+
+
+
+Open-RAG | http://arxiv.org/abs/2410.01782v1 
+
+
+
+RAG-QA Arena | http://arxiv.org/abs/2407.13998v2 
+
+
+
+RAGChecker | http://arxiv.org/abs/2408.08067v2 
+
+
+
+TC-RAG | http://arxiv.org/abs/2408.09199v1 
+
+
+
+SFR-RAG | http://arxiv.org/abs/2409.09916v1 
+
+
+
+InspectorRAGet | http://arxiv.org/abs/2404.17347v1 
+
+
+
+LRP4RAG | http://arxiv.org/abs/2408.15533v2 
+
+
+
+Long-Context LLMs Meet RAG | http://arxiv.org/abs/2410.05983v1 
+
+
+
+iRAG | http://arxiv.org/abs/2404.12309v2 
+
+
+
+RAGAR, Your Falsehood Radar | http://arxiv.org/abs/2404.12065v2 
+
+
+
+Dynamic Contexts for Generating Suggestion Questions in RAG Based
+
+
+
+  Conversational Systems | http://arxiv.org/abs/2403.11413v1 
+
+
+
+Towards a RAG-based Summarization Agent for the Electron-Ion Collider | http://arxiv.org/abs/2403.15729v3 
+
+
+
+Block-Attention for Efficient RAG | http://arxiv.org/abs/2409.15355v4 
+
+
+
+RE-RAG | http://arxiv.org/abs/2406.05794v3 
+
+
+
+Mindful-RAG | http://arxiv.org/abs/2407.12216v2 
+
+
+
+LA-RAG | http://arxiv.org/abs/2409.08597v1 
+
+
+
+StructRAG | http://arxiv.org/abs/2410.08815v2 
+
+
+
+Face4RAG | http://arxiv.org/abs/2407.01080v2 
+
+
+
+WeKnow-RAG | http://arxiv.org/abs/2408.07611v2 
+
+
+
+Evaluation of Semantic Search and its Role in
+
+
+
+  Retrieved-Augmented-Generation (RAG) for Arabic Language | http://arxiv.org/abs/2403.18350v2 
+
+
+
+RAGSys | http://arxiv.org/abs/2405.17587v2 
+
+
+
+Retrieval Augmented Generation (RAG) and Beyond | http://arxiv.org/abs/2409.14924v1 
+
+
+
+FoRAG | http://arxiv.org/abs/2406.13779v1 
+
+
+
+Exploring RAG-based Vulnerability Augmentation with LLMs | http://arxiv.org/abs/2408.04125v2 
+
+
+
+Automating Bibliometric Analysis with Sentence Transformers and
+
+
+
+  Retrieval-Augmented Generation (RAG) | http://arxiv.org/abs/2410.09090v1 
+
+
+
+RAGDiffusion | http://arxiv.org/abs/2411.19528v1 
+
+
+
+A RAG-based Question Answering System Proposal for Understanding Islam | http://arxiv.org/abs/2401.15378v4 
+
+
+
+RAG-based Crowdsourcing Task Decomposition via Masked Contrastive
+
+
+
+  Learning with Prompts | http://arxiv.org/abs/2406.06577v1 
+
+
+
+A New Pipeline For Generating Instruction Dataset via RAG and Self
+
+
+
+  Fine-Tuning | http://arxiv.org/abs/2408.05911v1 
+
+
+
+P-RAG | http://arxiv.org/abs/2409.11279v1 
+
+
+
+RAG Foundry | http://arxiv.org/abs/2408.02545v1 
+
+
+
+Towards Fair RAG | http://arxiv.org/abs/2409.11598v2 
+
+
+
+Prompt-RAG | http://arxiv.org/abs/2401.11246v1 
+
+
+
+A Study on the Implementation Method of an Agent-Based Advanced RAG
+
+
+
+  System Using Graph | http://arxiv.org/abs/2407.19994v3 
+
+
+
+LegalBench-RAG | http://arxiv.org/abs/2408.10343v1 
+
+
+
+Long Context RAG Performance of Large Language Models | http://arxiv.org/abs/2411.03538v1 
+
+
+
+A Methodology for Evaluating RAG Systems | http://arxiv.org/abs/2410.08801v1 
+
+
+
+HtmlRAG | http://arxiv.org/abs/2411.02959v1 
+
+
+
+RAG Does Not Work for Enterprises | http://arxiv.org/abs/2406.04369v1 
+
+
+
+Introducing a new hyper-parameter for RAG | http://arxiv.org/abs/2407.19794v2 
+
+
+
+Measuring and Enhancing Trustworthiness of LLMs in RAG through Grounded
+
+
+
+  Attributions and Learning to Refuse | http://arxiv.org/abs/2409.11242v2 
+
+
+
+Embodied-RAG | http://arxiv.org/abs/2409.18313v4 
+
+
+
+Mitigating the Privacy Issues in Retrieval-Augmented Generation (RAG)
+
+
+
+  via Pure Synthetic Data | http://arxiv.org/abs/2406.14773v1 
+
+
+
+HyPA-RAG | http://arxiv.org/abs/2409.09046v1 
+
+
+
+HijackRAG | http://arxiv.org/abs/2410.22832v1 
+
+
+
+RAG based Question-Answering for Contextual Response Prediction System | http://arxiv.org/abs/2409.03708v2
+
+
+
+### END OF LIST ###
